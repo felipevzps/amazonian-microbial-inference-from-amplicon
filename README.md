@@ -74,7 +74,7 @@ head(taxa.print)
 
 ## Alpha diversity analyzed by Microbiome Analyst
 
-<img src="https://github.com/felipevzps/sample-inference-from-amplicon/blob/main/MicrobiomeAnalyst/3_alpha_diver_8.png" width="516"/> <img src="https://github.com/felipevzps/sample-inference-from-amplicon/blob/main/MicrobiomeAnalyst/4_alpha_diverbox_8.png" width="484"/>
+<img src="https://github.com/felipevzps/sample-inference-from-amplicon/blob/main/MicrobiomeAnalyst/3_alpha_diver_8.png" width="416"/> <img src="https://github.com/felipevzps/sample-inference-from-amplicon/blob/main/MicrobiomeAnalyst/4_alpha_diverbox_8.png" width="384"/>
 
 >The alpha diversity graph at the Phylum level indicates two distinct groups (A and B) based on similar species composition within each group.
 
