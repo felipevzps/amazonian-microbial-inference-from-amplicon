@@ -1,6 +1,14 @@
-# sample-inference-from-amplicon
+# amazonian-microbial-inference-from-amplicon 
 
-Sample inference from amplicon data with single-nucleotide resolution using DADA2.
+Sample inference from amplicon data with single-nucleotide resolution using [DADA2](https://benjjneb.github.io/dada2/).
+
+>This project explores the microbial diversity of Amazonian soil.
+>
+>Amplicon Sequence Variants (ASVs), crucial for characterizing microbial communities with single-nucleotide precision, were identified and examined.
+>
+>Challenges emerged in striking a balance between sequencing depth and accuracy, particularly evident in the trade-off between stringent quality filtering and the detection of rare taxa.
+>
+>This investigation aims to visualize the intricate dynamics of microbial populations in the Amazonian ecosystem.
 
 ## Dataset
 [Six soil samples](https://github.com/felipevzps/sample-inference-from-amplicon/tree/main/rawData) collected from the Amazonian forest and pasture were sequenced using the Illumina MiSeq platform in PE 250bp mode. The sequencing employed the primers 515F (Parada et al. 2016) and 806R (Apprill et al. 2015), with lengths of 19 and 20 bp, respectively.
@@ -94,7 +102,11 @@ head(taxa.print)
 
 <img src="https://github.com/felipevzps/sample-inference-from-amplicon/blob/main/MicrobiomeAnalyst/5_bar_graph_6_LEfSe_phylum_relevant_treatments.png" width="800">
 
->Due to differences in microbiome composition, groups A and B also show different functional diversity, with group A associated with nitrogen fixation and nutrient cycling, while group B is linked to methane cycling and cellulose/sulfate reduction.
+>Due to differences in microbiome composition, groups A and B also show different functional diversity.
+>
+>Group A is associated with nitrogen fixation and nutrient cycling.
+>
+>While Group B is linked to methane cycling and cellulose/sulfate reduction.
 
 ## Observations
 
