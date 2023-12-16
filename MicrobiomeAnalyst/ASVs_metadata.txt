@@ -1,0 +1,7 @@
+#NAME	Tratamento
+A1	A
+A2	A
+A3	A
+A7	B
+A8	B
+A9	B
