@@ -12,7 +12,7 @@ Sample inference from amplicon data with single-nucleotide resolution using [DAD
 
 ## Dataset
 [Six soil samples](https://github.com/felipevzps/sample-inference-from-amplicon/tree/main/rawData) collected from the Amazonian forest and pasture were sequenced using the Illumina MiSeq platform in PE 250bp mode. The sequencing employed the primers 515F (Parada et al. 2016) and 806R (Apprill et al. 2015), with lengths of 19 and 20 bp, respectively.
->[Earth Microbiome Protocols](https://earthmicrobiome.org/protocols-and-standards/16s/)
+>[16S Illumina Amplicon Protocol](https://earthmicrobiome.org/protocols-and-standards/16s/)
 
 ## Amplicon Sequence Variants (ASVs)
 | Samples | ASVs  |
