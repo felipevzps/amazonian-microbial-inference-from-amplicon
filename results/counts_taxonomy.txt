@@ -1,0 +1,2126 @@
+Kingdom	Phylum	Class	Order	Family	Genus	A1	A2	A3	A7	A8	A9
+1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	2596	2997	3611	476	322	504
+2	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	1484	1471	1902	0	0	0
+3	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	NA	846	1073	1206	0	0	18
+4	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	914	867	1071	0	0	29
+5	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	NA	949	605	868	74	47	42
+6	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	NA	935	710	881	0	0	0
+7	Bacteria	Firmicutes	Bacilli	Bacillales	NA	NA	0	0	0	1130	529	683
+8	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	706	649	864	83	0	28
+9	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	888	451	796	171	12	0
+10	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	0	0	0	802	502	942
+11	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	682	451	680	143	75	115
+12	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	549	621	648	35	0	30
+13	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	0	0	0	674	456	669
+14	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	NA	88	66	77	493	464	583
+15	Bacteria	WPS-2	NA	NA	NA	NA	646	461	567	0	0	0
+16	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	615	463	592	0	0	0
+17	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Fictibacillus	0	0	0	694	385	483
+18	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	497	460	540	0	0	0
+19	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	230	162	199	378	205	299
+20	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	533	327	531	0	0	0
+21	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	474	374	504	0	0	0
+22	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	0	0	0	557	298	467
+23	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	195	241	199	317	135	234
+24	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	304	363	351	116	55	67
+25	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	131	121	0	436	248	295
+26	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	389	363	443	0	0	0
+27	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Xiphinematobacteraceae	Candidatus Xiphinematobacter	393	318	451	0	0	26
+28	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	0	0	0	447	265	400
+29	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	NA	0	0	0	380	350	366
+30	Bacteria	WPS-2	NA	NA	NA	NA	421	298	341	0	0	0
+31	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	403	273	379	0	0	0
+32	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	342	328	380	0	0	0
+33	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	192	180	176	210	123	168
+34	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Sinomonas	349	232	453	0	0	0
+35	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	NA	370	343	291	0	0	0
+36	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	229	245	294	111	37	77
+37	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	174	233	139	179	127	137
+38	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	NA	0	0	0	423	217	290
+39	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	281	270	356	0	0	22
+40	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	289	261	312	0	0	0
+41	Bacteria	WPS-2	NA	NA	NA	NA	247	308	297	0	0	0
+42	Bacteria	WPS-2	NA	NA	NA	NA	357	214	279	0	0	0
+43	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	0	0	0	340	315	168
+44	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Chromobacteriaceae	Crenobacter	0	0	0	287	333	125
+45	Bacteria	WPS-2	NA	NA	NA	NA	212	228	286	0	0	0
+46	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	157	165	208	87	35	74
+47	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys	90	120	52	221	88	148
+48	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodomicrobiaceae	Rhodomicrobium	0	0	0	324	196	198
+49	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	5	5	0	265	251	184
+50	Bacteria	WPS-2	NA	NA	NA	NA	231	234	235	0	0	0
+51	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	NA	0	0	0	290	0	406
+52	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	29	0	0	265	133	258
+53	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	56	19	45	254	134	172
+54	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys	19	14	0	296	138	208
+55	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	198	174	232	26	0	27
+56	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	192	182	278	0	0	0
+57	Bacteria	WPS-2	NA	NA	NA	NA	205	193	248	0	0	0
+58	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Roseiarcus	235	174	206	0	0	27
+59	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	NA	35	33	30	278	65	201
+60	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	169	191	233	43	0	0
+61	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	238	167	224	0	0	0
+62	Bacteria	WPS-2	NA	NA	NA	NA	185	187	255	0	0	0
+63	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	0	0	0	302	123	197
+64	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosotaleales	Nitrosotaleaceae	NA	133	158	313	4	0	0
+65	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	202	158	247	0	0	0
+66	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	39	17	49	266	96	134
+67	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	181	210	206	0	0	0
+68	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	122	90	80	112	79	111
+69	Bacteria	Firmicutes	Bacilli	Bacillales	NA	NA	0	0	0	235	144	201
+70	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	180	169	228	0	0	0
+71	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	187	162	221	0	0	0
+72	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Xiphinematobacteraceae	Candidatus Xiphinematobacter	199	184	180	0	0	0
+73	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	133	88	133	113	52	44
+74	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	164	191	192	0	0	0
+75	Bacteria	RCP2-54	NA	NA	NA	NA	218	174	150	0	0	0
+76	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	196	155	156	11	9	15
+77	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Rhodoblastus	0	0	0	214	137	177
+78	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	191	134	192	0	0	0
+79	Bacteria	WPS-2	NA	NA	NA	NA	187	154	158	0	0	0
+80	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	0	229	98	160
+81	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	126	174	177	0	0	0
+82	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	173	120	182	0	0	0
+83	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	145	129	184	17	0	0
+84	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	NA	0	0	0	270	129	76
+85	Bacteria	GAL15	NA	NA	NA	NA	122	113	161	17	9	28
+86	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	25	39	0	162	101	109
+87	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	166	111	155
+88	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	131	119	113	38	26	0
+89	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	156	121	142	0	0	0
+90	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	0	0	0	248	83	83
+91	Bacteria	Desulfobacterota	Desulfuromonadia	Geobacterales	Geobacteraceae	NA	0	0	0	155	134	121
+92	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	192	68	149
+93	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	0	0	0	177	102	130
+94	Archaea	Halobacterota	Methanosarcinia	Methanosarciniales	Methanosarcinaceae	Methanosarcina	0	0	0	146	94	167
+95	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Chungangia	0	0	0	165	114	127
+96	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	171	88	143	0	0	0
+97	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	108	73	98	57	0	63
+98	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	Candidatus Nitrocosmicus	0	0	0	162	113	124
+99	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	117	89	98	58	36	0
+100	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	73	96	105	124	0	0
+101	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	175	91	131
+102	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	118	125	150	0	0	0
+103	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	0	0	0	173	100	120
+104	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	A21b	NA	0	0	0	135	114	140
+105	Bacteria	Chloroflexi	AD3	NA	NA	NA	156	133	98	0	0	0
+106	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	214	78	92
+107	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	183	90	110
+108	Bacteria	WPS-2	NA	NA	NA	NA	100	113	124	15	0	28
+109	Bacteria	Firmicutes	Bacilli	Alicyclobacillales	Alicyclobacillaceae	Tumebacillus	0	0	0	111	129	139
+110	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	NA	NA	42	0	0	149	88	99
+111	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	131	115	131	0	0	0
+112	Bacteria	GAL15	NA	NA	NA	NA	131	108	133	0	0	0
+113	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	115	120	136	0	0	0
+114	Bacteria	WPS-2	NA	NA	NA	NA	100	141	130	0	0	0
+115	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	144	90	117	0	0	17
+116	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	131	95	140	0	0	0
+117	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	133	106	108	18	0	0
+118	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	108	121	133	0	0	0
+119	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	197	57	107
+120	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	122	127	110	0	0	0
+121	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Xiphinematobacteraceae	Candidatus Xiphinematobacter	61	64	101	38	24	71
+122	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	0	0	0	179	29	150
+123	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	125	103	127	0	0	0
+124	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	52	0	48	66	0	189
+125	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Dermacoccaceae	NA	0	0	0	51	0	304
+126	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	0	0	0	137	55	162
+127	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	0	0	140	94	110
+128	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	124	103	115	0	0	0
+129	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	134	90	117	0	0	0
+130	Bacteria	WPS-2	NA	NA	NA	NA	107	121	112	0	0	0
+131	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	0	0	0	113	110	115
+132	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylocystis	0	0	0	158	68	104
+133	Bacteria	WPS-2	NA	NA	NA	NA	94	129	105	0	0	0
+134	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	118	100	109	0	0	0
+135	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	118	102	106	0	0	0
+136	Bacteria	Acidobacteriota	Holophagae	Subgroup 7	NA	NA	0	0	9	161	51	103
+137	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	0	0	0	153	75	96
+138	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	0	0	0	138	68	118
+139	Bacteria	WPS-2	NA	NA	NA	NA	74	84	165	0	0	0
+140	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	0	0	145	85	89
+141	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	135	67	116	0	0	0
+142	Bacteria	Chloroflexi	AD3	NA	NA	NA	98	86	133	0	0	0
+143	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	0	0	144	86	82
+144	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	127	69	111	0	0	0
+145	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	127	65	111	0	0	0
+146	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	NA	109	98	93	0	0	0
+147	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	0	135	85	80
+148	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	0	0	0	92	101	107
+149	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	93	88	114	0	0	0
+150	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	NA	154	33	106	0	0	0
+151	Bacteria	Desulfobacterota	Desulfuromonadia	Geobacterales	Geobacteraceae	NA	0	0	0	108	79	105
+152	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Roseiarcus	84	106	101	0	0	0
+153	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	109	80	101	0	0	0
+154	Bacteria	Acidobacteriota	Subgroup 5	NA	NA	NA	99	112	78	0	0	0
+155	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	0	132	50	106
+156	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	58	61	57	41	31	39
+157	Bacteria	GAL15	NA	NA	NA	NA	92	101	87	0	0	0
+158	Bacteria	WPS-2	NA	NA	NA	NA	63	101	112	0	0	0
+159	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	102	76	97	0	0	0
+160	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	42	39	66	40	43	45
+161	Bacteria	WPS-2	NA	NA	NA	NA	0	0	0	80	94	101
+162	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	NA	95	57	122	0	0	0
+163	Bacteria	Acidobacteriota	Blastocatellia	11-24	NA	NA	0	0	0	135	64	74
+164	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	123	57	93
+165	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	116	72	83	0	0	0
+166	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	91	78	102	0	0	0
+167	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	120	68	83
+168	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	67	90	113	0	0	0
+169	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Terracidiphilus	0	0	0	125	72	73
+170	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	NA	104	92	72	0	0	0
+171	Bacteria	WPS-2	NA	NA	NA	NA	67	101	98	0	0	0
+172	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	0	0	0	87	82	97
+173	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	0	0	0	110	67	87
+174	Archaea	Crenarchaeota	Nitrososphaeria	Group 1.1c	NA	NA	96	61	101	4	0	0
+175	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	0	0	0	87	77	98
+176	Bacteria	Firmicutes	Bacilli	Bacillales	NA	NA	0	0	0	106	54	101
+177	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	Dechloromonas	0	0	0	94	27	140
+178	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	0	0	97	90	73
+179	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	83	81	93	0	0	0
+180	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	63	105	89	0	0	0
+181	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Rugosimonospora	26	21	0	95	50	65
+182	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	138	54	65
+183	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Ellin6067	0	0	0	105	40	111
+184	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	NA	71	82	99	0	0	0
+185	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodomicrobiaceae	Rhodomicrobium	95	64	90	0	0	0
+186	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Xiphinematobacteraceae	Candidatus Xiphinematobacter	90	63	96	0	0	0
+187	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Terracidiphilus	98	69	81	0	0	0
+188	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	76	94	78	0	0	0
+189	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	93	83	71	0	0	0
+190	Bacteria	Myxococcota	Myxococcia	Myxococcales	Anaeromyxobacteraceae	Anaeromyxobacter	0	0	0	117	67	63
+191	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	NA	0	0	0	116	75	55
+192	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	104	82	58	0	0	0
+193	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Xiphinematobacteraceae	Candidatus Xiphinematobacter	78	66	100	0	0	0
+194	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	16	101	67	60
+195	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	0	0	0	132	47	65
+196	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Luedemannella	0	0	0	61	65	118
+197	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella	116	51	75	0	0	0
+198	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	82	96	63	0	0	0
+199	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	47	47	48	0	0	99
+200	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	NA	0	0	0	103	51	87
+201	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	NA	0	0	0	108	62	70
+202	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	79	94	66	0	0	0
+203	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	0	0	0	114	45	79
+204	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	72	75	90	0	0	0
+205	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	85	51	99	0	0	0
+206	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	83	70	82	0	0	0
+207	Bacteria	Desulfobacterota	Desulfuromonadia	Geobacterales	Geobacteraceae	NA	0	0	0	80	65	90
+208	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	109	69	56	0	0	0
+209	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptacidiphilus	100	0	133	0	0	0
+210	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	7	0	0	121	46	58
+211	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	NA	79	74	77	0	0	0
+212	Bacteria	Chloroflexi	AD3	NA	NA	NA	91	44	94	0	0	0
+213	Bacteria	Chloroflexi	Ktedonobacteria	B12-WMSP1	NA	NA	0	0	0	90	66	73
+214	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	NA	0	0	0	88	66	75
+215	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	100	50	77	0	0	0
+216	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	75	56	95	0	0	0
+217	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	62	56	105	0	0	0
+218	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	0	0	0	74	51	96
+219	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylovirgula	63	74	83	0	0	0
+220	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	74	77	69
+221	Bacteria	WPS-2	NA	NA	NA	NA	60	71	88	0	0	0
+222	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	0	0	0	104	44	71
+223	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	76	67	75	0	0	0
+224	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	100	51	67
+225	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	72	69	76
+226	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	NA	59	62	95	0	0	0
+227	Archaea	Crenarchaeota	Nitrososphaeria	Group 1.1c	NA	NA	101	29	85	0	0	0
+228	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	0	0	0	101	41	70
+229	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	0	91	46	75
+230	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Kitasatospora	71	59	81	0	0	0
+231	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Acidicaldus	113	0	96	0	0	0
+232	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	0	0	0	88	40	81
+233	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	96	40	71
+234	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	81	56	69	0	0	0
+235	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	114	35	55
+236	Bacteria	Myxococcota	bacteriap25	NA	NA	NA	6	9	0	114	0	74
+237	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	NA	0	0	0	69	54	80
+238	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	0	0	0	106	31	64
+239	Bacteria	WPS-2	NA	NA	NA	NA	137	0	63	0	0	0
+240	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	101	0	99	0	0	0
+241	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	65	32	33	30	18	22
+242	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	49	85	66	0	0	0
+243	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Zavarzinella	0	0	0	86	39	75
+244	Bacteria	GAL15	NA	NA	NA	NA	76	0	73	33	17	0
+245	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	38	0	69	91
+246	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	71	53	73	0	0	0
+247	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	0	0	0	63	94	40
+248	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	64	71	61	0	0	0
+249	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	55	69	70	0	0	0
+250	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	109	82	0	0	0	0
+251	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	63	36	92	0	0	0
+252	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	49	51	91
+253	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	KF-JG30-B3	NA	54	31	71	12	0	22
+254	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	62	66	61	0	0	0
+255	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	61	49	79	0	0	0
+256	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1921-2	53	30	106	0	0	0
+257	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	0	0	0	58	55	76
+258	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	70	49	69	0	0	0
+259	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	79	34	75
+260	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	109	31	47	0	0	0
+261	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	NA	63	65	59	0	0	0
+262	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	69	58	60
+263	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	55	50	80	0	0	0
+264	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	0	0	0	102	36	46
+265	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	0	0	0	96	34	54
+266	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 12	0	0	0	64	56	64
+267	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	69	0	91	23	0	0
+268	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	48	46	89	0	0	0
+269	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	0	0	92	54	36
+270	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	73	43	65	0	0	0
+271	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	82	41	58
+272	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	Denitratisoma	0	0	0	75	47	56
+273	Bacteria	Dependentiae	Babeliae	Babeliales	Babeliaceae	NA	0	0	0	65	30	83
+274	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	0	0	0	65	50	63
+275	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Anaerolinea	0	0	0	64	52	62
+276	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Chromobacteriaceae	Crenobacter	0	0	0	53	101	24
+277	Archaea	Halobacterota	Methanosarcinia	Methanosarciniales	Methanosarcinaceae	Methanosarcina	0	0	0	62	44	71
+278	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	35	61	80	0	0	0
+279	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	0	0	0	126	0	50
+280	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptacidiphilus	76	43	56	0	0	0
+281	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	67	51	57	0	0	0
+282	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	90	0	84	0	0	0
+283	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Fulvimonas	36	77	61	0	0	0
+284	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	0	107	67	0	0	0
+285	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	80	36	56	0	0	0
+286	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	68	47	56
+287	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Rummeliibacillus	0	0	0	61	40	70
+288	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	0	0	0	81	23	66
+289	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	82	32	55	0	0	0
+290	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	73	57	39	0	0	0
+291	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	31	68	70	0	0	0
+292	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	0	0	0	169	0	0
+293	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	105	0	64
+294	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	44	45	79	0	0	0
+295	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	110	30	27
+296	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	57	39	70	0	0	0
+297	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	55	55	56	0	0	0
+298	Bacteria	WPS-2	NA	NA	NA	NA	50	48	68	0	0	0
+299	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	36	60	70	0	0	0
+300	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methyloligellaceae	NA	0	0	0	77	34	55
+301	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	69	38	59
+302	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	NA	0	0	0	64	36	65
+303	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	61	43	61
+304	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 10	0	0	0	61	53	50
+305	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Roseiarcus	0	88	75	0	0	0
+306	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	71	32	59
+307	Bacteria	WPS-2	NA	NA	NA	NA	79	0	82	0	0	0
+308	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	75	25	61	0	0	0
+309	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	57	52	52	0	0	0
+310	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	56	55	50	0	0	0
+311	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	27	30	41	35	28
+312	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	0	0	0	47	50	64
+313	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	NA	0	0	0	112	48	0
+314	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	0	0	69	43	48
+315	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Marmoricola	74	0	85	0	0	0
+316	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	63	39	56	0	0	0
+317	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosotaleales	Nitrosotaleaceae	NA	89	0	68	0	0	0
+318	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	74	43	40	0	0	0
+319	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	54	51	52	0	0	0
+320	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	32	38	48	20	0	19
+321	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	0	0	0	73	33	51
+322	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	0	62	40	55
+323	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	57	43	57
+324	Bacteria	WPS-2	NA	NA	NA	NA	44	57	55	0	0	0
+325	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	NA	0	0	0	79	33	44
+326	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	71	29	56
+327	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	0	0	0	67	35	54
+328	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	87	68	0	0	0	0
+329	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	90	33	32
+330	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	0	0	0	77	37	41
+331	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	0	0	0	63	43	49
+332	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylocystis	0	0	0	154	0	0
+333	Bacteria	WPS-2	NA	NA	NA	NA	70	44	39	0	0	0
+334	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	39	68	39	0	7	0
+335	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	14	0	0	55	38	46
+336	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	95	0	56	0	0	0
+337	Bacteria	Actinobacteriota	Acidimicrobiia	NA	NA	NA	92	59	0	0	0	0
+338	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	43	38	33	0	0	36
+339	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	43	40	67	0	0	0
+340	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	0	0	57	42	51
+341	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	0	0	0	34	28	88
+342	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	23	67	59	0	0	0
+343	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	71	24	54
+344	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	69	0	79	0	0	0
+345	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	G12-WMSP1	52	33	63	0	0	0
+346	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	0	39	45	0	0	64
+347	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	0	0	148	0
+348	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	88	32	27	0	0	0
+349	Bacteria	WPS-2	NA	NA	NA	NA	36	43	68	0	0	0
+350	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	0	0	74	33	40
+351	Bacteria	Firmicutes	Bacilli	Bacillales	NA	NA	0	0	0	0	72	75
+352	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	67	0	79	0	0	0
+353	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	75	0	70	0	0	0
+354	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	30	29	45	0	29	12
+355	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	27	53	65	0	0	0
+356	Archaea	Halobacterota	Methanocellia	Methanocellales	Methanocellaceae	Rice Cluster I	0	0	0	60	40	45
+357	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	0	68	76	0	0	0
+358	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	80	25	38	0	0	0
+359	Bacteria	Desulfobacterota	Syntrophobacteria	Syntrophobacterales	Syntrophobacteraceae	Syntrophobacter	0	0	0	47	49	47
+360	Bacteria	WPS-2	NA	NA	NA	NA	42	44	56	0	0	0
+361	Bacteria	Actinobacteriota	Acidimicrobiia	NA	NA	NA	36	26	50	12	0	17
+362	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	62	0	79
+363	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	NA	0	0	0	52	39	49
+364	Bacteria	WPS-2	NA	NA	NA	NA	59	30	49	0	0	0
+365	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	55	28	55	0	0	0
+366	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira	0	0	0	60	44	34
+367	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	0	0	0	56	35	46
+368	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	24	52	60	0	0	0
+369	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	51	0	83	0	0	0
+370	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	0	0	54	39	40
+371	Bacteria	Chloroflexi	AD3	NA	NA	NA	47	27	58	0	0	0
+372	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	NA	0	0	0	57	32	43
+373	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	56	32	44
+374	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Candidatus Nostocoida	71	60	0	0	0	0
+375	Bacteria	WPS-2	NA	NA	NA	NA	60	0	71	0	0	0
+376	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	NA	67	0	63	0	0	0
+377	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	64	66	0
+378	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	0	0	0	0	0	130
+379	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	43	40	46	0	0	0
+380	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Terrimonas	0	0	0	53	30	46
+381	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	0	0	0	51	25	53
+382	Bacteria	GAL15	NA	NA	NA	NA	72	0	56	0	0	0
+383	Bacteria	WPS-2	NA	NA	NA	NA	63	65	0	0	0	0
+384	Bacteria	Chloroflexi	JG30-KF-CM66	NA	NA	NA	25	51	52	0	0	0
+385	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Acidicaldus	32	42	53	0	0	0
+386	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	0	78	0	49
+387	Bacteria	Chloroflexi	Anaerolineae	SJA-15	NA	NA	0	0	0	67	22	38
+388	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	0	64	0	63
+389	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	51	51	24	0	0	0
+390	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	0	0	0	70	0	56
+391	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	74	22	29
+392	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	0	0	0	74	0	51
+393	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Allostreptomyces	0	0	0	39	29	57
+394	Bacteria	WPS-2	NA	NA	NA	NA	61	0	63	0	0	0
+395	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	37	38	49	0	0	0
+396	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Marmoricola	0	42	82	0	0	0
+397	Bacteria	Actinobacteriota	Acidimicrobiia	NA	NA	NA	42	34	47	0	0	0
+398	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	34	45	44	0	0	0
+399	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	33	43	47	0	0	0
+400	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	58	30	35
+401	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Afipia	36	52	34	0	0	0
+402	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	35	36	51	0	0	0
+403	Bacteria	GAL15	NA	NA	NA	NA	0	79	43	0	0	0
+404	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	54	36	32
+405	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	0	44	78
+406	Bacteria	Chloroflexi	AD3	NA	NA	NA	39	24	58	0	0	0
+407	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 13	NA	NA	38	38	45	0	0	0
+408	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Acidicaldus	43	37	39	0	0	0
+409	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	NA	NA	7	0	0	50	30	32
+410	Bacteria	Methylomirabilota	Methylomirabilia	Methylomirabilales	Methylomirabilaceae	Sh765B-TzT-35	0	0	0	60	24	35
+411	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	0	0	0	57	0	62
+412	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	39	38	41	0	0	0
+413	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	0	0	70	0	48
+414	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	55	30	33
+415	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Mesorhizobium	0	0	0	41	32	45
+416	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	38	41	38	0	0	0
+417	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	51	24	42
+418	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	58	0	58	0	0	0
+419	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	KF-JG30-B3	NA	38	43	35	0	0	0
+420	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Acidicaldus	35	29	52	0	0	0
+421	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	40	38	38
+422	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	32	36	38	0	0	9
+423	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	55	22	37	0	0	0
+424	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	32	41	41	0	0	0
+425	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	38	0	45	30	0	0
+426	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	NA	0	0	0	70	0	43
+427	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	62	0	50	0	0	0
+428	Bacteria	Firmicutes	Symbiobacteriia	Symbiobacteriales	Symbiobacteraceae	NA	0	0	0	73	31	8
+429	Bacteria	RCP2-54	NA	NA	NA	NA	59	0	52	0	0	0
+430	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	55	0	56	0	0	0
+431	Archaea	Crenarchaeota	Nitrososphaeria	Group 1.1c	NA	NA	39	0	72	0	0	0
+432	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	71	40	0	0	0
+433	Bacteria	FCPU426	NA	NA	NA	NA	0	0	0	41	22	48
+434	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	0	0	31	28	52
+435	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	0	0	0	26	46	39
+436	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	31	35	44	0	0	0
+437	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	15	0	30	19	16	30
+438	Bacteria	Firmicutes	Clostridia	Clostridiales	Caloramatoraceae	Fonticella	0	0	0	51	23	36
+439	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	NA	NA	0	0	0	49	0	60
+440	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	0	0	0	27	13	69
+441	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	55	0	53	0	0	0
+442	Bacteria	Acidobacteriota	Subgroup 5	NA	NA	NA	46	32	30	0	0	0
+443	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylovirgula	29	41	38	0	0	0
+444	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	0	108	0	0	0
+445	Bacteria	Chloroflexi	Chloroflexia	Chloroflexales	Roseiflexaceae	NA	0	0	0	53	22	33
+446	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	0	0	0	53	0	55
+447	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	mle1-7	0	0	0	48	28	32
+448	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	0	0	43	35	30
+449	Bacteria	Chloroflexi	Ktedonobacteria	B12-WMSP1	NA	NA	41	25	41	0	0	0
+450	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	0	80	27	0	0	0
+451	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	Dechloromonas	0	0	0	56	0	51
+452	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	44	31	31	0	0	0
+453	Bacteria	Actinobacteriota	Acidimicrobiia	Acidimicrobiales	Acidimicrobiales Incertae Sedis	Aciditerrimonas	32	36	38	0	0	0
+454	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	0	0	0	42	31	33
+455	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	56	0	49	0	0	0
+456	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	50	0	55	0	0	0
+457	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Acidicaldus	37	28	40	0	0	0
+458	Bacteria	Actinobacteriota	Acidimicrobiia	NA	NA	NA	36	31	38	0	0	0
+459	Bacteria	Desulfobacterota	NA	NA	NA	NA	11	0	0	32	21	40
+460	Bacteria	Latescibacterota	NA	NA	NA	NA	0	0	0	56	12	36
+461	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	39	32	33
+462	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	66	0	37	0	0	0
+463	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	48	55	0	0	0	0
+464	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	0	0	45	19	39
+465	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	0	0	0	45	23	35
+466	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Aquisphaera	0	0	0	43	60	0
+467	Bacteria	RCP2-54	NA	NA	NA	NA	63	0	39	0	0	0
+468	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	47	0	55	0	0	0
+469	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Frankiaceae	Jatrophihabitans	20	30	51	0	0	0
+470	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Cohnella	0	101	0	0	0	0
+471	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	0	0	101	0	0	0
+472	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	0	0	44	22	35
+473	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	41	25	35
+474	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Sporomusaceae	NA	0	0	0	41	24	35
+475	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	34	37	28	0	0	0
+476	Archaea	Crenarchaeota	Nitrososphaeria	Group 1.1c	NA	NA	33	27	39	0	0	0
+477	Bacteria	Actinobacteriota	Actinobacteria	Catenulisporales	Actinospicaceae	Actinospica	28	36	35	0	0	0
+478	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	NA	0	0	0	63	19	17
+479	Bacteria	Armatimonadota	NA	NA	NA	NA	0	0	0	55	44	0
+480	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	33	32	33	0	0	0
+481	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	BacC-u-018	25	35	38	0	0	0
+482	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	NA	0	0	0	40	0	58
+483	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	NA	0	0	0	26	24	48
+484	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Noviherbaspirillum	0	0	0	24	46	28
+485	Bacteria	Myxococcota	Polyangia	mle1-27	NA	NA	0	0	0	43	25	29
+486	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	42	0	54	0	0	0
+487	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosotaleales	Nitrosotaleaceae	NA	31	32	33	0	0	0
+488	Bacteria	RCP2-54	NA	NA	NA	NA	0	32	64	0	0	0
+489	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Candidatus Berkiella	0	0	0	59	20	17
+490	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	Nordella	0	0	0	45	16	35
+491	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	0	0	0	40	16	40
+492	Archaea	Halobacterota	Methanocellia	Methanocellales	Methanocellaceae	Methanocella	0	0	0	35	24	37
+493	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	30	32	33	0	0	0
+494	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	95	0	0
+495	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Kitasatospora	0	0	0	59	0	36
+496	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	0	0	41	21	33
+497	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	39	24	32
+498	Bacteria	Myxococcota	Polyangia	Polyangiales	Phaselicystidaceae	Phaselicystis	0	0	0	38	20	37
+499	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	0	0	32	39	24
+500	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Gimesiaceae	NA	49	45	0	0	0	0
+501	Bacteria	WPS-2	NA	NA	NA	NA	36	26	32	0	0	0
+502	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	28	32	34	0	0	0
+503	Bacteria	WPS-2	NA	NA	NA	NA	0	94	0	0	0	0
+504	Bacteria	Chloroflexi	AD3	NA	NA	NA	0	41	53	0	0	0
+505	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	NA	0	0	0	53	0	41
+506	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	NA	0	0	0	40	18	36
+507	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	29	32	32	0	0	0
+508	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	60	0	33
+509	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	0	0	0	51	0	42
+510	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Candidatus Berkiella	0	0	0	49	0	44
+511	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	NA	NA	0	0	0	44	27	22
+512	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	42	26	24	0	0	0
+513	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosotaleales	Nitrosotaleaceae	Candidatus Nitrosotalea	0	0	0	92	0	0
+514	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	0	0	49	22	21
+515	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Candidatus Berkiella	0	0	0	43	49	0
+516	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Caryophanon	0	0	0	42	20	30
+517	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Gemmata	34	21	36	0	0	0
+518	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	20	20	17	0	0	34
+519	Bacteria	Proteobacteria	Gammaproteobacteria	CCD24	NA	NA	0	0	0	38	26	27
+520	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	51	39	0	0	0	0
+521	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Terracidiphilus	24	0	27	20	0	19
+522	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	87	3	0
+523	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Anaerolinea	0	0	0	51	0	39
+524	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	0	0	0	50	11	29
+525	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	0	0	0	40	24	26
+526	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	14	27	36	0	12
+527	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	Niveibacterium	0	0	0	89	0	0
+528	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	NA	0	0	0	54	0	35
+529	Bacteria	Chloroflexi	JG30-KF-CM66	NA	NA	NA	0	0	0	37	22	30
+530	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	NA	0	0	0	35	21	33
+531	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Candidatus Berkiella	32	21	35	0	0	0
+532	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	30	22	36	0	0	0
+533	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	22	33	33	0	0	0
+534	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	0	0	0	40	0	48
+535	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	0	0	36	31	21
+536	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	31	29	27	0	0	0
+537	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	AB1	NA	26	21	40	0	0	0
+538	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Solibacillus	0	0	0	58	0	29
+539	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	0	26	29	32
+540	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	86	0	0	0	0	0
+541	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	NA	26	35	25	0	0	0
+542	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	0	39	47	0	0	0
+543	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	NA	0	0	0	49	0	37
+544	Bacteria	Actinobacteriota	Actinobacteria	Catenulisporales	Actinospicaceae	Actinospica	47	0	38	0	0	0
+545	Archaea	Crenarchaeota	Nitrososphaeria	Group 1.1c	NA	NA	27	22	36	0	0	0
+546	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	Ellin516	25	24	36	0	0	0
+547	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	25	31	29	0	0	0
+548	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	47	0	38
+549	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	28	26	30	0	0	0
+550	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	0	43	41	0	0	0
+551	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Aquisphaera	0	0	84	0	0	0
+552	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Cohnella	0	0	84	0	0	0
+553	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	0	0	48	36	0
+554	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Rhodanobacter	20	31	32	0	0	0
+555	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	0	43	40	0	0	0
+556	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	83	0	0
+557	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	NA	NA	0	0	0	54	0	29
+558	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Oxalophagus	0	0	0	44	0	39
+559	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	0	0	0	25	29	29
+560	Bacteria	Actinobacteriota	Acidimicrobiia	NA	NA	NA	0	31	51	0	0	0
+561	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Terrimonas	0	0	0	82	0	0
+562	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Ammoniphilus	0	0	0	0	51	31
+563	Bacteria	WPS-2	NA	NA	NA	NA	53	0	28	0	0	0
+564	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	39	42	0	0	0	0
+565	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Candidatus Berkiella	35	27	19	0	0	0
+566	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	34	0	47	0	0	0
+567	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	33	21	27	0	0	0
+568	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	51	0	30
+569	Bacteria	Myxococcota	Myxococcia	Myxococcales	Anaeromyxobacteraceae	Anaeromyxobacter	0	0	0	48	0	33
+570	Bacteria	WPS-2	NA	NA	NA	NA	37	17	26	0	0	0
+571	Bacteria	WPS-2	NA	NA	NA	NA	30	26	24	0	0	0
+572	Bacteria	GAL15	NA	NA	NA	NA	0	31	49	0	0	0
+573	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	24	56	0	0	0
+574	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	0	80	0	0	0
+575	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	0	0	0	22	21	37
+576	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Dyella	34	26	19	0	0	0
+577	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	23	30	26	0	0	0
+578	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	12	0	22	25	0	20
+579	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	79	0	0	0
+580	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	79	0	0
+581	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	0	0	0	61	0	18
+582	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	NA	NA	0	0	0	44	0	35
+583	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	AKAU3564 sediment group	NA	0	0	0	42	0	37
+584	Bacteria	Firmicutes	Limnochordia	Hydrogenispora	NA	NA	0	0	0	31	0	48
+585	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	0	0	0	25	23	31
+586	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	Candidatus Nitrososphaera	0	0	0	0	33	46
+587	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	NA	0	0	0	0	0	79
+588	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	33	20	0	0	0	25
+589	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	78	0	0	0	0
+590	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	NA	0	0	0	78	0	0
+591	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Gallionellaceae	Sideroxydans	0	0	0	61	17	0
+592	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	43	0	35
+593	Bacteria	Chloroflexi	Dehalococcoidia	S085	NA	NA	0	0	0	33	20	25
+594	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Paraclostridium	11	8	0	28	18	12
+595	Bacteria	WPS-2	NA	NA	NA	NA	0	0	77	0	0	0
+596	Bacteria	Myxococcota	Myxococcia	Myxococcales	Anaeromyxobacteraceae	Anaeromyxobacter	0	0	0	45	0	32
+597	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	44	0	33
+598	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Rudaea	0	0	0	29	26	22
+599	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	NA	33	17	26	0	0	0
+600	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	28	20	28	0	0	0
+601	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	76	0	0	0	0
+602	Bacteria	Firmicutes	Limnochordia	Hydrogenispora	NA	NA	0	0	6	43	0	27
+603	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	0	0	0	76	0	0
+604	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	0	51	0	25
+605	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 12	0	0	0	50	0	26
+606	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	0	0	0	27	21	28
+607	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	0	0	0	27	18	31
+608	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	NA	32	18	25	0	0	0
+609	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	28	23	24	0	0	0
+610	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	24	24	27	0	0	0
+611	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	0	0	0	39	0	36
+612	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	0	0	0	38	0	37
+613	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	0	0	0	15	40	20
+614	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	Ruminiclostridium	0	0	0	0	75	0
+615	Bacteria	RCP2-54	NA	NA	NA	NA	74	0	0	0	0	0
+616	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	27	20	27	0	0	0
+617	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas	16	30	28	0	0	0
+618	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	0	37	37	0	0	0
+619	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	0	35	39	0	0	0
+620	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	0	0	0	36	0	38
+621	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Anaerolinea	0	0	0	22	24	28
+622	Archaea	Crenarchaeota	Nitrososphaeria	Group 1.1c	NA	NA	73	0	0	0	0	0
+623	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	NA	43	0	30	0	0	0
+624	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	40	0	33
+625	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	39	0	34
+626	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	0	35	37	0	0	0
+627	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	0	0	0	72	0	0
+628	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	0	0	0	47	0	25
+629	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	20	23	29
+630	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	71	0	0	0	0	0
+631	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	43	0	28	0	0	0
+632	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	Ellin516	30	17	24	0	0	0
+633	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	12	30	29	0	0	0
+634	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	0	0	0	71	0	0
+635	Bacteria	Armatimonadota	NA	NA	NA	NA	0	0	0	35	12	24
+636	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	32	16	23
+637	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	NA	NA	0	0	0	30	41	0
+638	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	25	17	28	0	0	0
+639	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	NA	24	0	46	0	0	0
+640	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	0	0	0	70	0	0
+641	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	0	0	0	70	0	0
+642	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	0	0	0	49	0	21
+643	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	38	13	19
+644	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	36	34	0
+645	Bacteria	Acidobacteriota	Acidobacteriae	AKIW659	NA	NA	0	0	0	35	17	18
+646	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	0	0	34	21	15
+647	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	0	0	0	34	13	23
+648	Bacteria	Acidobacteriota	Subgroup 5	NA	NA	NA	0	0	0	34	36	0
+649	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Herbaspirillum	0	0	0	27	24	19
+650	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	0	0	0	19	23	28
+651	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	40	29	0	0	0	0
+652	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	39	30	0	0	0	0
+653	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	25	0	44	0	0	0
+654	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Singulisphaera	0	0	0	69	0	0
+655	Bacteria	Firmicutes	Bacilli	Bacillales	NA	NA	0	0	0	69	0	0
+656	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Rhodoblastus	0	0	0	69	0	0
+657	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella	0	0	0	69	0	0
+658	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	Azovibrio	0	0	0	53	0	16
+659	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	0	0	0	43	26	0
+660	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	Steroidobacter	0	0	0	39	0	30
+661	Bacteria	Chloroflexi	Anaerolineae	SJA-15	NA	NA	0	0	0	35	20	14
+662	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	0	0	0	33	0	36
+663	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	0	0	0	0	43	26
+664	Bacteria	Acidobacteriota	Blastocatellia	11-24	NA	NA	0	0	0	0	23	46
+665	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	68	0	0	0	0	0
+666	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	NA	34	0	26	0	8	0
+667	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	26	19	23	0	0	0
+668	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	33	35	0	0	0
+669	Bacteria	WPS-2	NA	NA	NA	NA	0	29	39	0	0	0
+670	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	Candidatus Nitrocosmicus	0	13	0	37	0	18
+671	Bacteria	Firmicutes	Bacilli	Alicyclobacillales	Alicyclobacillaceae	Tumebacillus	0	0	0	68	0	0
+672	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	0	0	0	38	0	30
+673	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Pseudoduganella	0	0	0	24	26	18
+674	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	0	0	0	42	26
+675	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	0	0	0	0	0	68
+676	Bacteria	Chloroflexi	AD3	NA	NA	NA	45	0	22	0	0	0
+677	Bacteria	WPS-2	NA	NA	NA	NA	36	0	31	0	0	0
+678	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	0	0	67	0	0	0
+679	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	0	0	0	49	0	18
+680	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	44	0	23
+681	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	0	0	28	39	0
+682	Bacteria	Myxococcota	Polyangia	Polyangiales	BIrii41	NA	0	0	0	24	12	31
+683	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	66	0	0	0	0	0
+684	Bacteria	Chloroflexi	TK10	NA	NA	NA	66	0	0	0	0	0
+685	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	NA	35	0	31	0	0	0
+686	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	35	31	0	0	0	0
+687	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium	9	0	0	37	0	20
+688	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	0	66	0	0
+689	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Ammoniphilus	0	0	0	66	0	0
+690	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	66	0	0
+691	Bacteria	Firmicutes	Limnochordia	Hydrogenispora	NA	NA	0	0	0	43	23	0
+692	Bacteria	Acidobacteriota	Subgroup 25	NA	NA	NA	0	0	0	34	12	20
+693	Bacteria	Chloroflexi	Ktedonobacteria	C0119	NA	NA	0	0	0	25	15	26
+694	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	MND1	0	0	0	22	0	44
+695	Bacteria	WPS-2	NA	NA	NA	NA	24	19	22	0	0	0
+696	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 13	15	0	0	24	0	26
+697	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	34	15	15	0	0	0
+698	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	29	21	14	0	0	0
+699	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	26	17	21	0	0	0
+700	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	NA	0	32	32	0	0	0
+701	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	0	25	39	0	0	0
+702	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	NA	0	0	64	0	0	0
+703	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	43	21	0
+704	Bacteria	Acidobacteriota	Holophagae	Subgroup 7	NA	NA	0	0	0	36	0	28
+705	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	0	0	0	32	0	32
+706	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	A21b	NA	0	0	0	29	18	17
+707	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomassiliicoccaceae	Methanomassiliicoccus	0	0	0	28	16	20
+708	Bacteria	Armatimonadota	NA	NA	NA	NA	0	0	0	22	0	42
+709	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Intrasporangiaceae	Intrasporangium	0	0	0	0	39	25
+710	Bacteria	Armatimonadota	NA	NA	NA	NA	0	0	0	0	0	64
+711	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	41	0	22	0	0	0
+712	Bacteria	Chloroflexi	TK10	NA	NA	NA	30	0	33	0	0	0
+713	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	0	0	0	63	0	0
+714	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	40	23	0
+715	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	29	0	34
+716	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	0	0	25	38
+717	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	37	25	0	0	0	0
+718	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	25	0	37	0	0	0
+719	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	21	19	22	0	0	0
+720	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	44	0	18
+721	Bacteria	RCP2-54	NA	NA	NA	NA	0	0	0	33	16	13
+722	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	NA	0	0	0	22	22	18
+723	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	0	0	0	18	18	26
+724	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	34	0	27	0	0	0
+725	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	20	17	24	0	0	0
+726	Bacteria	WPS-2	NA	NA	NA	NA	0	0	61	0	0	0
+727	Bacteria	Firmicutes	Bacilli	Alicyclobacillales	Alicyclobacillaceae	Alicyclobacillus	0	0	0	61	0	0
+728	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Sutterellaceae	NA	0	0	0	41	20	0
+729	Bacteria	Myxococcota	Myxococcia	Myxococcales	Anaeromyxobacteraceae	Anaeromyxobacter	0	0	0	0	31	30
+730	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	0	60	0	0
+731	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	0	0	0	0	60
+732	Bacteria	Chloroflexi	AD3	NA	NA	NA	35	0	0	24	0	0
+733	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	24	35	0	0	0	0
+734	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	21	14	24	0	0	0
+735	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	15	18	26	0	0	0
+736	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	NA	NA	0	59	0	0	0	0
+737	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	0	0	0	59	0	0
+738	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	CPla-3 termite group	NA	0	0	0	42	0	17
+739	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Oceanobacillus	0	0	0	39	20	0
+740	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	NA	0	0	0	34	12	13
+741	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	0	17	42
+742	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	0	0	59
+743	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	58	0	0	0	0	0
+744	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Aquisphaera	58	0	0	0	0	0
+745	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Edaphobacter	27	0	31	0	0	0
+746	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	33	25	0	0	0
+747	Bacteria	WPS-2	NA	NA	NA	NA	0	0	58	0	0	0
+748	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	0	0	58	0	0	0
+749	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	NA	0	0	0	58	0	0
+750	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Frankiaceae	Jatrophihabitans	0	0	0	58	0	0
+751	Bacteria	Actinobacteriota	MB-A2-108	NA	NA	NA	0	0	0	47	11	0
+752	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	31	0	27
+753	Bacteria	Firmicutes	Limnochordia	Hydrogenispora	NA	NA	0	0	0	24	14	20
+754	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	NA	0	0	0	23	0	35
+755	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	NA	0	0	0	0	27	31
+756	Bacteria	Actinobacteriota	Coriobacteriia	OPB41	NA	NA	0	0	0	0	0	58
+757	Bacteria	Firmicutes	Bacilli	Alicyclobacillales	Alicyclobacillaceae	Alicyclobacillus	0	0	0	0	0	58
+758	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	0	0	58
+759	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	22	24	11	0	0	0
+760	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	NA	13	28	16	0	0	0
+761	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Edaphobacter	0	26	31	0	0	0
+762	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella	0	25	32	0	0	0
+763	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	0	0	57	0	0
+764	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	0	0	0	28	0	29
+765	Archaea	Crenarchaeota	Nitrososphaeria	Group 1.1c	NA	NA	39	0	17	0	0	0
+766	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	56	0	0
+767	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Romboutsia	0	0	0	31	0	25
+768	Bacteria	Firmicutes	Limnochordia	Hydrogenispora	NA	NA	0	0	0	29	0	27
+769	Bacteria	Chloroflexi	Anaerolineae	SJA-15	NA	NA	0	0	0	23	15	18
+770	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	NA	0	0	0	0	0	56
+771	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	28	0	27	0	0	0
+772	Bacteria	NA	NA	NA	NA	NA	25	30	0	0	0	0
+773	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	18	25	12	0	0	0
+774	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Sutterellaceae	NA	0	0	0	44	0	11
+775	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	NA	0	0	0	33	0	22
+776	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	25	9	21
+777	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	NA	0	0	0	23	0	32
+778	Bacteria	WPS-2	NA	NA	NA	NA	54	0	0	0	0	0
+779	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	35	0	19	0	0	0
+780	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	23	0	31	0	0	0
+781	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	10	16	12	0	16
+782	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	0	0	0	35	19	0
+783	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Xiphinematobacteraceae	Candidatus Xiphinematobacter	0	0	0	34	0	20
+784	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	24	0	30
+785	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	0	0	0	0	0	54
+786	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	53	0	0	0	0	0
+787	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	NA	27	0	26	0	0	0
+788	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	19	0	0	18	16	0
+789	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	13	16	24	0	0	0
+790	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	6	13	12	22	0	0
+791	Bacteria	Actinobacteriota	Acidimicrobiia	NA	NA	NA	0	0	53	0	0	0
+792	Bacteria	Firmicutes	Clostridia	Christensenellales	Christensenellaceae	NA	0	0	0	33	0	20
+793	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	NA	0	0	0	30	0	23
+794	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	0	0	0	29	0	24
+795	Bacteria	WS4	NA	NA	NA	NA	0	0	0	29	24	0
+796	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	0	27	0	26
+797	Bacteria	Acidobacteriota	Blastocatellia	11-24	NA	NA	19	15	18	0	0	0
+798	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	52	0	0	0	0
+799	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	28	24	0	0	0
+800	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Piscinibacter	0	0	0	52	0	0
+801	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	0	0	0	52	0	0
+802	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Arenimonas	0	0	0	32	7	13
+803	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	28	24	0
+804	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	0	0	0	27	0	25
+805	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	0	0	21	13	18
+806	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	0	0	0	0	52	0
+807	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	51	0	0	0	0	0
+808	Bacteria	WPS-2	NA	NA	NA	NA	51	0	0	0	0	0
+809	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	23	0	28	0	0	0
+810	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira	14	20	17	0	0	0
+811	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	51	0	0	0	0
+812	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	51	0	0
+813	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	0	0	0	51	0	0
+814	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	51	0	0
+815	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	0	0	0	33	0	18
+816	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	0	0	0	29	0	22
+817	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	0	0	0	27	11	13
+818	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cytophagaceae	Cytophaga	0	0	0	16	12	23
+819	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1921-2	26	0	24	0	0	0
+820	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 13	NA	NA	13	10	27	0	0	0
+821	Bacteria	WPS-2	NA	NA	NA	NA	11	16	23	0	0	0
+822	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	0	0	0	50	0	0
+823	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	33	0	17
+824	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	31	0	19
+825	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	29	6	15
+826	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	0	0	0	25	0	25
+827	Bacteria	Latescibacterota	NA	NA	NA	NA	0	0	0	24	9	17
+828	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	0	23	0	27
+829	Bacteria	Firmicutes	Symbiobacteriia	Symbiobacteriales	Symbiobacteraceae	NA	0	0	0	22	19	9
+830	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	NA	0	0	0	0	26	24
+831	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	0	49	0	0	0	0
+832	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	0	26	23	0	0	0
+833	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	0	0	49	0	0	0
+834	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	0	0	0	49	0	0
+835	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	0	0	0	49	0	0
+836	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	49	0	0
+837	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	0	0	49	0	0
+838	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	32	0	17
+839	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Fimbriiglobus	0	0	0	32	0	17
+840	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	0	0	0	25	0	24
+841	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 11	0	0	0	22	10	17
+842	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidetes vadinHA17	NA	0	0	0	11	13	25
+843	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	0	0	0	0	49	0
+844	Bacteria	WPS-2	NA	NA	NA	NA	23	24	1	0	0	0
+845	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	18	10	20	0	0	0
+846	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	15	20	13	0	0	0
+847	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Luedemannella	0	0	22	26	0	0
+848	Bacteria	Firmicutes	Symbiobacteriia	Symbiobacteriales	Symbiobacteraceae	NA	0	0	0	48	0	0
+849	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	NA	NA	0	0	0	35	0	13
+850	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	NA	0	0	0	26	0	22
+851	Bacteria	Armatimonadota	Chthonomonadetes	Chthonomonadales	Chthonomonadaceae	Chthonomonas	0	0	0	25	9	14
+852	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	25	11	12
+853	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	16	21	11
+854	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	0	0	0	0	0	48
+855	Bacteria	Cyanobacteria	Vampirivibrionia	Obscuribacterales	Obscuribacteraceae	NA	23	24	0	0	0	0
+856	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	18	16	13	0	0	0
+857	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	18	29	0	0	0
+858	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	NA	0	0	0	47	0	0
+859	Bacteria	Sumerlaeota	Sumerlaeia	Sumerlaeales	Sumerlaeaceae	Sumerlaea	0	0	0	47	0	0
+860	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	NA	0	0	0	32	0	15
+861	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	26	0	21
+862	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	0	0	0	25	0	22
+863	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	46	0	0	0	0	0
+864	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Xiphinematobacteraceae	Candidatus Xiphinematobacter	25	0	21	0	0	0
+865	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	24	0	22	0	0	0
+866	Bacteria	Actinobacteriota	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinomadura	23	0	23	0	0	0
+867	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	NA	NA	22	0	24	0	0	0
+868	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	21	25	0	0	0
+869	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	0	46	0	0	0
+870	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	0	46	0	0	0
+871	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	Anaerobacterium	0	0	0	46	0	0
+872	Bacteria	Proteobacteria	Gammaproteobacteria	CCD24	NA	NA	0	0	0	46	0	0
+873	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 8	0	0	0	29	17	0
+874	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	0	0	0	26	0	20
+875	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	0	25	0	21
+876	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	NA	0	0	0	23	0	23
+877	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	0	0	0	0	46	0
+878	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	0	0	0	0	46
+879	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	NA	0	0	0	0	0	46
+880	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	Candidatus Protochlamydia	45	0	0	0	0	0
+881	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	AB1	NA	38	0	7	0	0	0
+882	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	22	23	0	0	0	0
+883	Bacteria	WPS-2	NA	NA	NA	NA	19	26	0	0	0	0
+884	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	45	0	0	0
+885	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	NA	0	0	45	0	0	0
+886	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	0	45	0	0
+887	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	NA	0	0	0	45	0	0
+888	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	0	0	0	45	0	0
+889	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	NA	0	0	0	45	0	0
+890	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	45	0	0
+891	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 3	0	0	0	30	0	15
+892	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	NA	0	0	0	26	11	8
+893	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	25	0	20
+894	Bacteria	Acidobacteriota	Subgroup 25	NA	NA	NA	0	0	0	24	8	13
+895	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	NA	0	0	0	23	0	22
+896	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	22	0	23
+897	Bacteria	Chloroflexi	Ktedonobacteria	B12-WMSP1	NA	NA	0	0	0	18	0	27
+898	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Terrimonas	0	0	0	0	45	0
+899	Bacteria	Myxococcota	Myxococcia	Myxococcales	Anaeromyxobacteraceae	Anaeromyxobacter	0	0	0	0	0	45
+900	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	44	0	0	0	0	0
+901	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	15	29	0	0	0
+902	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	NA	0	0	0	44	0	0
+903	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	0	0	0	26	0	18
+904	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	20	0	24
+905	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	0	44	0
+906	Bacteria	Chloroflexi	SHA-26	NA	NA	NA	0	0	0	0	23	21
+907	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	0	0	0	44
+908	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	Pedosphaera	43	0	0	0	0	0
+909	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	43	0	0	0	0	0
+910	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	KF-JG30-B3	NA	43	0	0	0	0	0
+911	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosotaleales	Nitrosotaleaceae	NA	22	0	21	0	0	0
+912	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	11	8	24	0	0	0
+913	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	NA	0	43	0	0	0	0
+914	Bacteria	Chloroflexi	Ktedonobacteria	B12-WMSP1	NA	NA	0	0	43	0	0	0
+915	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Roseiarcus	0	0	0	43	0	0
+916	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	30	0	13
+917	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	25	18	0
+918	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	24	0	19
+919	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	22	21	0
+920	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	0	0	0	20	9	14
+921	Bacteria	NA	NA	NA	NA	NA	0	0	0	14	15	14
+922	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	0	0	0	0	43	0
+923	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	42	0	0	0	0	0
+924	Bacteria	Chloroflexi	AD3	NA	NA	NA	10	13	19	0	0	0
+925	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	12	30	0	0	0
+926	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	0	0	42	0	0	0
+927	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Hylemonella	0	0	0	42	0	0
+928	Bacteria	Desulfobacterota	Desulfuromonadia	Geobacterales	Geobacteraceae	NA	0	0	0	42	0	0
+929	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Intrasporangiaceae	Tetrasphaera	0	0	0	42	0	0
+930	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	NA	0	0	0	42	0	0
+931	Bacteria	Desulfobacterota	Desulfuromonadia	Geobacterales	Geobacteraceae	Citrifermentans	0	0	0	42	0	0
+932	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosotaleales	Nitrosotaleaceae	Candidatus Nitrosotalea	0	0	0	42	0	0
+933	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Chthoniobacter	0	0	0	26	5	11
+934	Bacteria	Firmicutes	Bacilli	Thermoactinomycetales	Thermoactinomycetaceae	Shimazuella	0	0	0	19	0	23
+935	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1959-1	0	0	0	10	14	18
+936	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	0	0	0	0	42	0
+937	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	0	0	0	0	42	0
+938	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	0	24	18
+939	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys	0	0	0	0	21	21
+940	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	26	0	15	0	0	0
+941	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	19	0	0	22	0	0
+942	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	Candidatus Protochlamydia	17	0	24	0	0	0
+943	Archaea	Crenarchaeota	Nitrososphaeria	Group 1.1c	NA	NA	0	20	21	0	0	0
+944	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	19	22	0	0	0
+945	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	11	0	12	7	11
+946	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Amycolatopsis	0	7	0	14	10	10
+947	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	41	0	0	0
+948	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	0	0	0	41	0	0
+949	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	41	0	0
+950	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	0	0	41	0	0
+951	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	0	0	0	41	0	0
+952	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys	0	0	0	41	0	0
+953	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	41	0	0
+954	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	41	0	0
+955	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Virgibacillus	0	0	0	27	0	14
+956	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	25	16
+957	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylovirgula	40	0	0	0	0	0
+958	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	NA	NA	24	16	0	0	0	0
+959	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium	19	21	0	0	0	0
+960	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	16	0	24	0	0	0
+961	Bacteria	Chloroflexi	AD3	NA	NA	NA	0	28	12	0	0	0
+962	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	0	0	40	0	0	0
+963	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	40	0	0
+964	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	0	0	0	40	0	0
+965	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	NA	0	0	0	40	0	0
+966	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	0	0	26	14	0
+967	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	RB41	0	0	0	26	0	14
+968	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	0	0	25	0	15
+969	Bacteria	Acidobacteriota	Vicinamibacteria	Subgroup 17	NA	NA	0	0	0	24	0	16
+970	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	15	0	25
+971	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Bounagaea	0	0	0	14	0	26
+972	Bacteria	Actinobacteriota	Coriobacteriia	OPB41	NA	NA	0	0	0	0	40	0
+973	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	0	0	0	0	40	0
+974	Bacteria	Actinobacteriota	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinoallomurus	0	0	0	0	40	0
+975	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	0	0	0	0	40	0
+976	Archaea	Halobacterota	Methanosarcinia	Methanosarciniales	Methanosarcinaceae	Methanosarcina	0	0	0	0	15	25
+977	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 8	0	0	0	0	12	28
+978	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-007	0	0	0	0	0	40
+979	Bacteria	Dependentiae	Babeliae	Babeliales	Babeliaceae	NA	18	0	21	0	0	0
+980	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	14	6	17	0	2	0
+981	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	11	13	15	0	0	0
+982	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	12	27	0	0	0
+983	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	0	0	39	0	0	0
+984	Bacteria	Chloroflexi	AD3	NA	NA	NA	0	0	39	0	0	0
+985	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	0	39	0	0
+986	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	NA	0	0	0	39	0	0
+987	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	mle1-7	0	0	0	39	0	0
+988	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	39	0	0
+989	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	NA	0	0	0	39	0	0
+990	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	NA	0	0	0	16	0	23
+991	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	38	0	0	0	0	0
+992	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Gimesiaceae	NA	38	0	0	0	0	0
+993	Bacteria	Actinobacteriota	Actinobacteria	Catenulisporales	Catenulisporaceae	Catenulispora	23	15	0	0	0	0
+994	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	NA	NA	21	0	17	0	0	0
+995	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	14	0	24	0	0	0
+996	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	NA	NA	11	17	10	0	0	0
+997	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	0	0	0	38	0	0
+998	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Edaphobaculum	0	0	0	38	0	0
+999	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	0	38	0	0
+1000	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	0	0	0	38	0	0
+1001	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Intrasporangiaceae	Knoellia	0	0	0	38	0	0
+1002	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	0	0	0	38	0	0
+1003	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	0	0	0	20	0	18
+1004	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Xylophilus	0	0	0	0	0	38
+1005	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	0	0	0	0	0	38
+1006	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	0	0	37	0	0	0
+1007	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	0	0	0	37	0	0
+1008	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	NA	0	0	0	37	0	0
+1009	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	0	0	0	37	0	0
+1010	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	0	37	0	0
+1011	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	NA	0	0	0	37	0	0
+1012	Bacteria	Chloroflexi	Gitt-GS-136	NA	NA	NA	0	0	0	29	0	8
+1013	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	0	0	0	28	0	9
+1014	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	Thermosporothrix	0	0	0	21	8	8
+1015	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Labilithrix	0	0	0	19	0	18
+1016	Bacteria	Nitrospirota	Thermodesulfovibrionia	NA	NA	NA	0	0	0	12	6	19
+1017	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	Ellin516	0	0	0	0	0	37
+1018	Bacteria	Acidobacteriota	Subgroup 5	NA	NA	NA	0	0	0	0	0	37
+1019	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	36	0	0	0	0	0
+1020	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	23	13	0	0	0	0
+1021	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Acidipila-Silvibacterium	11	14	11	0	0	0
+1022	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	10	11	15	0	0	0
+1023	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	0	36	0	0	0	0
+1024	Bacteria	Chloroflexi	AD3	NA	NA	NA	0	0	36	0	0	0
+1025	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	36	0	0	0
+1026	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	Candidatus Protochlamydia	0	0	0	36	0	0
+1027	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	0	0	0	36	0	0
+1028	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	36	0	0
+1029	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	Alsobacter	0	0	0	36	0	0
+1030	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	Ruminiclostridium	0	0	0	36	0	0
+1031	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	0	0	0	22	0	14
+1032	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	0	0	0	17	19	0
+1033	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	0	0	17	6	13
+1034	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Rhodopila	0	0	0	16	7	13
+1035	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	env.OPS 17	NA	0	0	0	15	12	9
+1036	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	NA	0	0	0	0	36	0
+1037	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	0	0	0	36
+1038	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	35	0	0	0	0	0
+1039	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	NA	35	0	0	0	0	0
+1040	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	20	0	15	0	0	0
+1041	Bacteria	WPS-2	NA	NA	NA	NA	0	0	35	0	0	0
+1042	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	0	0	0	35	0	0
+1043	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	Candidatus Nitrososphaera	0	0	0	35	0	0
+1044	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	0	0	0	35	0	0
+1045	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	35	0	0
+1046	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Rummeliibacillus	0	0	0	35	0	0
+1047	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	0	0	0	35	0	0
+1048	Bacteria	Myxococcota	Polyangia	Polyangiales	BIrii41	NA	0	0	0	35	0	0
+1049	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Sporomusaceae	NA	0	0	0	23	12	0
+1050	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	NA	0	0	0	21	0	14
+1051	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Gemmata	0	0	0	19	0	16
+1052	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	0	35	0
+1053	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	0	34	0	0	0
+1054	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	34	0	0
+1055	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	NA	0	0	0	34	0	0
+1056	Bacteria	Firmicutes	Desulfitobacteriia	Desulfitobacteriales	Desulfitobacteriaceae	Desulfitobacterium	0	0	0	27	7	0
+1057	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	NA	0	0	0	24	0	10
+1058	Bacteria	Planctomycetota	Pla4 lineage	NA	NA	NA	0	0	0	19	7	8
+1059	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	0	0	0	0	34
+1060	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas	0	0	0	0	0	34
+1061	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Singulisphaera	33	0	0	0	0	0
+1062	Bacteria	NA	NA	NA	NA	NA	13	0	20	0	0	0
+1063	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	33	0	0	0	0
+1064	Bacteria	Chloroflexi	AD3	NA	NA	NA	0	0	33	0	0	0
+1065	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Puia	0	0	0	33	0	0
+1066	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	NA	0	0	0	33	0	0
+1067	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	NA	0	0	0	33	0	0
+1068	Bacteria	Chloroflexi	Anaerolineae	Caldilineales	Caldilineaceae	NA	0	0	0	33	0	0
+1069	Bacteria	Firmicutes	Bacilli	Alicyclobacillales	Alicyclobacillaceae	Tumebacillus	0	0	0	33	0	0
+1070	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	0	0	0	24	0	9
+1071	Bacteria	Firmicutes	Desulfitobacteriia	Desulfitobacteriales	Heliobacteriaceae	NA	0	0	0	21	0	12
+1072	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	19	14	0
+1073	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	16	7	10
+1074	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	0	0	0	12	0	21
+1075	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas	0	0	0	0	33	0
+1076	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	0	0	0	0	33	0
+1077	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	33	0
+1078	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	33	0
+1079	Bacteria	Acidobacteriota	Vicinamibacteria	Subgroup 17	NA	NA	0	0	0	0	16	17
+1080	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	NA	0	0	0	0	0	33
+1081	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	33
+1082	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	NA	32	0	0	0	0	0
+1083	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	0	32	0	0	0	0
+1084	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	NA	0	0	32	0	0	0
+1085	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	0	0	32	0	0	0
+1086	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	NA	0	0	0	32	0	0
+1087	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	32	0	0
+1088	Bacteria	Actinobacteriota	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Sphaerisporangium	0	0	0	32	0	0
+1089	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	32	0	0
+1090	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	32	0	0
+1091	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	32	0	0
+1092	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	21	0	11
+1093	Bacteria	Proteobacteria	Alphaproteobacteria	Azospirillales	NA	NA	0	0	0	19	13	0
+1094	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	18	0	14
+1095	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Bounagaea	0	0	0	16	0	16
+1096	Bacteria	Firmicutes	Clostridia	Clostridia vadinBB60 group	NA	NA	0	0	0	0	32	0
+1097	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	0	32	0
+1098	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Rummeliibacillus	0	0	0	0	18	14
+1099	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	NA	0	0	0	0	14	18
+1100	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	0	0	32
+1101	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	0	0	32
+1102	Bacteria	Chloroflexi	Dehalococcoidia	S085	NA	NA	0	0	0	0	0	32
+1103	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	31	0	0	0	0	0
+1104	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	31	0	0	0	0	0
+1105	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	19	0	12	0	0	0
+1106	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	Candidatus Protochlamydia	0	31	0	0	0	0
+1107	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Candidatus Berkiella	0	31	0	0	0	0
+1108	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1959-1	0	0	31	0	0	0
+1109	Bacteria	Acidobacteriota	Subgroup 18	NA	NA	NA	0	0	0	31	0	0
+1110	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	0	0	0	31	0	0
+1111	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella	0	0	0	31	0	0
+1112	Bacteria	Elusimicrobiota	Lineage IIa	NA	NA	NA	0	0	0	31	0	0
+1113	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	31	0	0
+1114	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	0	0	0	31	0	0
+1115	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Minicystis	0	0	0	31	0	0
+1116	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	NA	0	0	0	22	0	9
+1117	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	0	0	0	22	0	9
+1118	Bacteria	Proteobacteria	Alphaproteobacteria	Holosporales	Holosporaceae	NA	0	0	0	20	11	0
+1119	Bacteria	Chloroflexi	Ktedonobacteria	B12-WMSP1	NA	NA	0	0	0	20	11	0
+1120	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	19	0	12
+1121	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methyloligellaceae	NA	0	0	0	19	0	12
+1122	Bacteria	Firmicutes	Clostridia	Clostridiales	Caloramatoraceae	Fonticella	0	0	0	16	15	0
+1123	Bacteria	Myxococcota	Polyangia	mle1-27	NA	NA	0	0	0	14	0	17
+1124	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	0	31	0
+1125	Bacteria	Desulfobacterota	NA	NA	NA	NA	0	0	0	0	16	15
+1126	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Chlamydiaceae	NA	30	0	0	0	0	0
+1127	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	19	11	0	0	0	0
+1128	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	ZOR0006	14	16	0	0	0	0
+1129	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	0	30	0	0	0	0
+1130	Archaea	Crenarchaeota	Nitrososphaeria	Group 1.1c	NA	NA	0	15	15	0	0	0
+1131	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	8	10	0	0	12
+1132	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Dyella	0	0	30	0	0	0
+1133	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	0	0	30	0	0	0
+1134	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	0	30	0	0	0
+1135	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	0	0	30	0	0
+1136	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	0	0	0	30	0	0
+1137	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	NA	0	0	0	30	0	0
+1138	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	30	0	0
+1139	Bacteria	Actinobacteriota	MB-A2-108	NA	NA	NA	0	0	0	19	0	11
+1140	Bacteria	Firmicutes	Clostridia	Caldicoprobacterales	Caldicoprobacteraceae	Caldicoprobacter	0	0	0	16	0	14
+1141	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	0	0	15	0	15
+1142	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	0	0	15	6	9
+1143	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	NA	0	0	0	0	30	0
+1144	Bacteria	Myxococcota	Polyangia	Polyangiales	BIrii41	NA	0	0	0	0	0	30
+1145	Bacteria	Chloroflexi	NA	NA	NA	NA	10	7	12	0	0	0
+1146	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	NA	9	10	10	0	0	0
+1147	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	29	0	0	0	0
+1148	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	0	29	0	0	0	0
+1149	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Acidicaldus	0	29	0	0	0	0
+1150	Bacteria	Chloroflexi	AD3	NA	NA	NA	0	0	29	0	0	0
+1151	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	NA	0	0	29	0	0	0
+1152	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Aquisphaera	0	0	29	0	0	0
+1153	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	0	0	29	0	0	0
+1154	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	mle1-7	0	0	0	29	0	0
+1155	Bacteria	Chloroflexi	JG30-KF-CM66	NA	NA	NA	0	0	0	29	0	0
+1156	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	0	0	29	0	0
+1157	Bacteria	Armatimonadota	Chthonomonadetes	Chthonomonadales	Chthonomonadaceae	Chthonomonas	0	0	0	29	0	0
+1158	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	NA	0	0	0	29	0	0
+1159	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	29	0	0
+1160	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	0	0	0	29	0	0
+1161	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	0	0	29	0	0
+1162	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	0	0	0	22	7	0
+1163	Bacteria	Armatimonadota	Chthonomonadetes	Chthonomonadales	Chthonomonadaceae	Chthonomonas	0	0	0	15	0	14
+1164	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	0	0	0	12	0	17
+1165	Bacteria	Gemmatimonadota	S0134 terrestrial group	NA	NA	NA	0	0	0	12	0	17
+1166	Bacteria	Firmicutes	Limnochordia	Hydrogenispora	NA	NA	0	0	0	10	0	19
+1167	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	0	29	0
+1168	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir1 lineage	0	0	0	0	29	0
+1169	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Paucisalibacillus	0	0	0	0	0	29
+1170	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	0	0	0	0	0	29
+1171	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	0	0	0	0	0	29
+1172	Bacteria	Myxococcota	bacteriap25	NA	NA	NA	0	0	0	0	0	29
+1173	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	CPla-3 termite group	NA	0	0	0	0	0	29
+1174	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Aquisphaera	28	0	0	0	0	0
+1175	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	28	0	0	0	0	0
+1176	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	28	0	0	0	0	0
+1177	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	9	0	19	0	0	0
+1178	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	19	9	0	0	0
+1179	Bacteria	WPS-2	NA	NA	NA	NA	0	13	15	0	0	0
+1180	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	28	0	0	0
+1181	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	0	0	0	28	0	0
+1182	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	NA	0	0	0	28	0	0
+1183	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	0	0	28	0	0
+1184	Bacteria	Chloroflexi	SHA-26	NA	NA	NA	0	0	0	28	0	0
+1185	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	Ruminiclostridium	0	0	0	28	0	0
+1186	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	0	0	0	16	12	0
+1187	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	0	0	0	13	0	15
+1188	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	0	28	0
+1189	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	28
+1190	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	27	0	0	0	0	0
+1191	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	27	0	0	0	0	0
+1192	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	27	0	0	0	0	0
+1193	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	G12-WMSP1	14	0	13	0	0	0
+1194	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	12	15	0	0	0
+1195	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Aquisphaera	0	0	27	0	0	0
+1196	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	27	0	0	0
+1197	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Acidipila-Silvibacterium	0	0	27	0	0	0
+1198	Bacteria	Chloroflexi	Anaerolineae	Caldilineales	Caldilineaceae	NA	0	0	0	27	0	0
+1199	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	0	27	0	0
+1200	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	27	0	0
+1201	Bacteria	Chloroflexi	Dehalococcoidia	S085	NA	NA	0	0	0	27	0	0
+1202	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	0	0	27	0	0
+1203	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	27	0	0
+1204	Bacteria	Acidobacteriota	Subgroup 5	NA	NA	NA	0	0	0	27	0	0
+1205	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Intrasporangiaceae	Intrasporangium	0	0	0	27	0	0
+1206	Bacteria	Firmicutes	Limnochordia	Hydrogenispora	NA	NA	0	0	0	27	0	0
+1207	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	0	27	0	0
+1208	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	NA	0	0	0	27	0	0
+1209	Bacteria	Planctomycetota	Phycisphaerae	MSBL9	NA	NA	0	0	0	18	9	0
+1210	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	0	0	17	0	10
+1211	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	13	0	14
+1212	Bacteria	Actinobacteriota	MB-A2-108	NA	NA	NA	0	0	0	13	0	14
+1213	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	0	0	13	0	14
+1214	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	0	11	0	16
+1215	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	11	0	16
+1216	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	0	0	9	6	12
+1217	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	AKAU3564 sediment group	NA	0	0	0	0	13	14
+1218	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Microscillaceae	NA	0	0	0	0	0	27
+1219	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	0	0	0	0	0	27
+1220	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	0	0	27
+1221	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	AB1	NA	26	0	0	0	0	0
+1222	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	26	0	0	0	0	0
+1223	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	Thermosporothrix	13	0	13	0	0	0
+1224	Bacteria	Firmicutes	Bacilli	Thermoactinomycetales	Thermoactinomycetaceae	NA	8	10	4	4	0	0
+1225	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Edaphobacter	0	26	0	0	0	0
+1226	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Incertae Sedis	0	0	26	0	0	0
+1227	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	0	0	26	0	0	0
+1228	Bacteria	Proteobacteria	Gammaproteobacteria	JG36-TzT-191	NA	NA	0	0	0	26	0	0
+1229	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	26	0	0
+1230	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Tundrisphaera	0	0	0	26	0	0
+1231	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	0	26	0	0
+1232	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	MND1	0	0	0	26	0	0
+1233	Bacteria	Firmicutes	Clostridia	NA	NA	NA	0	0	0	26	0	0
+1234	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	0	0	0	26	0	0
+1235	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	26	0	0
+1236	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	NA	0	0	0	26	0	0
+1237	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	0	0	0	17	0	9
+1238	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Chthoniobacter	0	0	0	15	0	11
+1239	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	NA	0	0	0	0	26	0
+1240	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	0	0	26
+1241	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	0	0	0	0	26
+1242	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Edaphobaculum	0	0	0	0	0	26
+1243	Bacteria	Firmicutes	Clostridia	Clostridiales	Caloramatoraceae	Fonticella	0	0	0	0	0	26
+1244	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	26
+1245	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Minicystis	0	0	0	0	0	26
+1246	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	0	0	26
+1247	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	0	0	0	0	0	26
+1248	Bacteria	Proteobacteria	Gammaproteobacteria	KF-JG30-C25	NA	NA	25	0	0	0	0	0
+1249	Archaea	Crenarchaeota	Nitrososphaeria	Group 1.1c	NA	NA	25	0	0	0	0	0
+1250	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	25	0	0	0	0	0
+1251	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	23	2	0	0	0	0
+1252	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	17	0	8	0	0	0
+1253	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia	0	25	0	0	0	0
+1254	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	13	12	0	0	0
+1255	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	Thermosporothrix	0	0	25	0	0	0
+1256	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	0	0	25	0	0	0
+1257	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	NA	0	0	25	0	0	0
+1258	Bacteria	Actinobacteriota	Actinobacteria	Catenulisporales	Actinospicaceae	Actinospica	0	0	25	0	0	0
+1259	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 3	0	0	0	25	0	0
+1260	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	25	0	0
+1261	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	0	0	0	25	0	0
+1262	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	0	0	0	25	0	0
+1263	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	25	0	0
+1264	Bacteria	Desulfobacterota	Desulfuromonadia	Geobacterales	Geobacteraceae	NA	0	0	0	25	0	0
+1265	Bacteria	Actinobacteriota	Coriobacteriia	OPB41	NA	NA	0	0	0	25	0	0
+1266	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	NA	0	0	0	25	0	0
+1267	Bacteria	MBNT15	NA	NA	NA	NA	0	0	0	25	0	0
+1268	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	NA	0	0	0	25	0	0
+1269	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	Zoogloea	0	0	0	17	0	8
+1270	Bacteria	Firmicutes	Desulfotomaculia	Desulfotomaculales	Pelotomaculaceae	Pelotomaculum	0	0	0	17	0	8
+1271	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Fimbriiglobus	0	0	0	16	0	9
+1272	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	13	6	6
+1273	Bacteria	Chloroflexi	JG30-KF-CM66	NA	NA	NA	0	0	0	0	0	25
+1274	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	NA	24	0	0	0	0	0
+1275	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Candidatus Berkiella	24	0	0	0	0	0
+1276	Bacteria	Dependentiae	Babeliae	Babeliales	Babeliaceae	NA	12	0	12	0	0	0
+1277	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	7	10	7	0	0	0
+1278	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Dyella	0	24	0	0	0	0
+1279	Bacteria	Chloroflexi	Ktedonobacteria	B12-WMSP1	NA	NA	0	24	0	0	0	0
+1280	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	0	24	0	0	0
+1281	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	0	0	0	24	0	0
+1282	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	24	0	0
+1283	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Marmoricola	0	0	0	24	0	0
+1284	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	NA	0	0	0	24	0	0
+1285	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	0	0	0	24	0	0
+1286	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	0	0	24	0	0
+1287	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	0	0	24	0	0
+1288	Bacteria	Acidobacteriota	Holophagae	Holophagales	Holophagaceae	Geothrix	0	0	0	17	0	7
+1289	Bacteria	Proteobacteria	Gammaproteobacteria	Salinisphaerales	Solimonadaceae	Nevskia	0	0	0	17	0	7
+1290	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	17	7	0
+1291	Bacteria	Proteobacteria	Alphaproteobacteria	Defluviicoccales	Defluviicoccaceae	Defluviicoccus	0	0	0	16	0	8
+1292	Bacteria	Planctomycetota	OM190	NA	NA	NA	0	0	0	13	0	11
+1293	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	NA	0	0	0	0	24	0
+1294	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	0	0	0	0	24	0
+1295	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	0	0	0	0	24	0
+1296	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	0	0	0	0	24	0
+1297	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	0	0	0	0	0	24
+1298	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	0	0	24
+1299	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	Ruminiclostridium	0	0	0	0	0	24
+1300	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	0	0	24
+1301	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	23	0	0	0	0	0
+1302	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1921-2	23	0	0	0	0	0
+1303	Bacteria	Chloroflexi	JG30-KF-CM66	NA	NA	NA	16	0	7	0	0	0
+1304	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	9	14	0	0	0
+1305	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	23	0	0	0
+1306	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	NA	0	0	23	0	0	0
+1307	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	23	0	0	0
+1308	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	0	0	23	0	0	0
+1309	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	0	23	0	0	0
+1310	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Sporomusaceae	NA	0	0	0	23	0	0
+1311	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Gemmata	0	0	0	23	0	0
+1312	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Labraceae	Labrys	0	0	0	23	0	0
+1313	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	23	0	0
+1314	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	0	0	23	0	0
+1315	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	Ruminiclostridium	0	0	0	23	0	0
+1316	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	NA	0	0	0	23	0	0
+1317	Bacteria	Bacteroidota	Kapabacteria	Kapabacteriales	NA	NA	0	0	0	23	0	0
+1318	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Noviherbaspirillum	0	0	0	23	0	0
+1319	Bacteria	Planctomycetota	OM190	NA	NA	NA	0	0	0	17	0	6
+1320	Archaea	Halobacterota	Methanocellia	Methanocellales	Methanocellaceae	Rice Cluster I	0	0	0	14	9	0
+1321	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Bogoriellaceae	Georgenia	0	0	0	13	0	10
+1322	Bacteria	Firmicutes	Bacilli	Haloplasmatales	Haloplasmataceae	Haloplasma	0	0	0	13	10	0
+1323	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	12	0	11
+1324	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	12	11	0
+1325	Bacteria	Desulfobacterota	Desulfuromonadia	Geobacterales	Geobacteraceae	Geobacter	0	0	0	0	23	0
+1326	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	0	0	0	0	23	0
+1327	Bacteria	Actinobacteriota	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Nonomuraea	0	0	0	0	0	23
+1328	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	22	0	0	0	0	0
+1329	Bacteria	Chloroflexi	AD3	NA	NA	NA	10	0	12	0	0	0
+1330	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Rhodanobacter	0	22	0	0	0	0
+1331	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	22	0	0	0	0
+1332	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	22	0	0	0	0
+1333	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	9	13	0	0	0
+1334	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	0	0	22	0	0	0
+1335	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	NA	0	0	0	22	0	0
+1336	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	22	0	0
+1337	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	0	0	0	22	0	0
+1338	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	22	0	0
+1339	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	0	0	0	22	0	0
+1340	Bacteria	Chloroflexi	Anaerolineae	Caldilineales	Caldilineaceae	NA	0	0	0	9	3	10
+1341	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Gemmata	0	0	0	0	22	0
+1342	Bacteria	Armatimonadota	NA	NA	NA	NA	0	0	0	0	22	0
+1343	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Microvirga	0	0	0	0	22	0
+1344	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	NA	0	0	0	0	22	0
+1345	Bacteria	Firmicutes	Bacilli	Alicyclobacillales	Alicyclobacillaceae	Alicyclobacillus	0	0	0	0	0	22
+1346	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	NA	0	0	0	0	0	22
+1347	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	0	0	22
+1348	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	NA	0	0	0	0	0	22
+1349	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	NA	NA	21	0	0	0	0	0
+1350	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	21	0	0	0	0	0
+1351	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	Candidatus Protochlamydia	21	0	0	0	0	0
+1352	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	0	21	0	0	0
+1353	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	21	0	0	0
+1354	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	0	0	21	0	0	0
+1355	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	0	21	0	0	0
+1356	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	21	0	0	0
+1357	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Opitutus	0	0	0	21	0	0
+1358	Bacteria	Acidobacteriota	Vicinamibacteria	Subgroup 17	NA	NA	0	0	0	21	0	0
+1359	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	0	0	0	21	0	0
+1360	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	0	0	0	21	0	0
+1361	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	21	0	0
+1362	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	0	0	0	21	0	0
+1363	Bacteria	Chloroflexi	OLB14	NA	NA	NA	0	0	0	21	0	0
+1364	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	NA	0	0	0	21	0	0
+1365	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas	0	0	0	21	0	0
+1366	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	21	0	0
+1367	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	21	0	0
+1368	Bacteria	Chloroflexi	Anaerolineae	Caldilineales	Caldilineaceae	NA	0	0	0	17	0	4
+1369	Bacteria	Proteobacteria	Alphaproteobacteria	Defluviicoccales	NA	NA	0	0	0	16	5	0
+1370	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	AB1	NA	0	0	0	14	7	0
+1371	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Parafilimonas	0	0	0	12	0	9
+1372	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Edaphobacter	0	0	0	11	0	10
+1373	Bacteria	Chloroflexi	Ktedonobacteria	C0119	NA	NA	0	0	0	11	0	10
+1374	Bacteria	Cyanobacteria	Vampirivibrionia	Gastranaerophilales	NA	NA	0	0	0	9	4	8
+1375	Bacteria	Firmicutes	NA	NA	NA	NA	0	0	0	9	5	7
+1376	Bacteria	Dependentiae	Babeliae	Babeliales	NA	NA	0	0	0	7	0	14
+1377	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	CPla-3 termite group	NA	0	0	0	0	21	0
+1378	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	0	0	0	0	21	0
+1379	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	0	0	0	0	0	21
+1380	Bacteria	Chloroflexi	OLB14	NA	NA	NA	0	0	0	0	0	21
+1381	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	0	0	21
+1382	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	21
+1383	Bacteria	WPS-2	NA	NA	NA	NA	20	0	0	0	0	0
+1384	Bacteria	RCP2-54	NA	NA	NA	NA	20	0	0	0	0	0
+1385	Bacteria	Myxococcota	Polyangia	Blfdi19	NA	NA	20	0	0	0	0	0
+1386	Bacteria	Acidobacteriota	Blastocatellia	11-24	NA	NA	20	0	0	0	0	0
+1387	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	11	0	9	0	0	0
+1388	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	NA	10	0	10	0	0	0
+1389	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	7	6	7	0	0	0
+1390	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	20	0	0	0	0
+1391	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	20	0	0	0
+1392	Bacteria	RCP2-54	NA	NA	NA	NA	0	0	20	0	0	0
+1393	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 12	0	0	0	20	0	0
+1394	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	0	0	0	20	0	0
+1395	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	0	0	0	20	0	0
+1396	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	NA	0	0	0	20	0	0
+1397	Bacteria	FCPU426	NA	NA	NA	NA	0	0	0	20	0	0
+1398	Bacteria	Cyanobacteria	Vampirivibrionia	Obscuribacterales	Obscuribacteraceae	NA	0	0	0	20	0	0
+1399	Bacteria	Actinobacteriota	Coriobacteriia	OPB41	NA	NA	0	0	0	20	0	0
+1400	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	NA	0	0	0	20	0	0
+1401	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	0	20	0	0
+1402	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	0	20	0	0
+1403	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	20	0	0
+1404	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	NA	0	0	0	20	0	0
+1405	Bacteria	Bacteroidota	Kryptonia	Kryptoniales	BSV26	NA	0	0	0	20	0	0
+1406	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	20	0	0
+1407	Bacteria	Chloroflexi	Ktedonobacteria	C0119	NA	NA	0	0	0	20	0	0
+1408	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	0	20	0	0
+1409	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	20	0	0
+1410	Bacteria	Actinobacteriota	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinomadura	0	0	0	20	0	0
+1411	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	NA	0	0	0	20	0	0
+1412	Bacteria	Firmicutes	Bacilli	Brevibacillales	Brevibacillaceae	Brevibacillus	0	0	0	20	0	0
+1413	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	0	0	0	20	0	0
+1414	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	0	0	0	20	0	0
+1415	Bacteria	Firmicutes	Clostridia	Gracilibacteraceae	Lutispora	NA	0	0	0	11	0	9
+1416	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	NA	0	0	0	10	0	10
+1417	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	Thermosporothrix	0	0	0	8	0	12
+1418	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	0	20	0
+1419	Bacteria	Desulfobacterota	Desulfuromonadia	Geobacterales	Geobacteraceae	NA	0	0	0	0	0	20
+1420	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	0	0	0	20
+1421	Bacteria	Armatimonadota	Armatimonadia	Armatimonadales	NA	NA	0	0	0	0	0	20
+1422	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	NA	0	0	0	0	0	20
+1423	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	0	0	0	0	0	20
+1424	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	G12-WMSP1	19	0	0	0	0	0
+1425	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	12	0	7	0	0	0
+1426	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Aquisphaera	0	19	0	0	0	0
+1427	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	0	19	0	0	0	0
+1428	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	19	0	0	0
+1429	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	0	19	0	0	0
+1430	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	19	0	0	0
+1431	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	19	0	0	0
+1432	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	NA	NA	0	0	19	0	0	0
+1433	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	NA	0	0	19	0	0	0
+1434	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	0	19	0	0	0
+1435	Bacteria	Acidobacteriota	Holophagae	Holophagales	Holophagaceae	Geothrix	0	0	0	19	0	0
+1436	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	Denitratisoma	0	0	0	19	0	0
+1437	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	mle1-7	0	0	0	19	0	0
+1438	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	0	0	0	19	0	0
+1439	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	0	0	0	19	0	0
+1440	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	CPla-3 termite group	NA	0	0	0	19	0	0
+1441	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	19	0	0
+1442	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Gemmata	0	0	0	19	0	0
+1443	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	CPla-3 termite group	NA	0	0	0	19	0	0
+1444	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	SWB02	0	0	0	19	0	0
+1445	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	0	0	0	19	0	0
+1446	Bacteria	Actinobacteriota	MB-A2-108	NA	NA	NA	0	0	0	19	0	0
+1447	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	SH-PL14	0	0	0	19	0	0
+1448	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	19	0	0
+1449	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Ornatilinea	0	0	0	13	6	0
+1450	Bacteria	Acidobacteriota	Subgroup 5	NA	NA	NA	0	0	0	0	19	0
+1451	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	NA	0	0	0	0	19	0
+1452	Bacteria	Actinobacteriota	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinomadura	0	0	0	0	0	19
+1453	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 3	0	0	0	0	0	19
+1454	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	NA	NA	0	0	0	0	0	19
+1455	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	0	0	19
+1456	Bacteria	RCP2-54	NA	NA	NA	NA	0	0	0	0	0	19
+1457	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Opitutus	0	0	0	0	0	19
+1458	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	19
+1459	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	NA	0	0	0	0	0	19
+1460	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	19
+1461	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	18	0	0	0	0	0
+1462	Bacteria	WPS-2	NA	NA	NA	NA	18	0	0	0	0	0
+1463	Bacteria	NA	NA	NA	NA	NA	8	0	10	0	0	0
+1464	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1959-1	0	18	0	0	0	0
+1465	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	0	18	0	0	0	0
+1466	Bacteria	Proteobacteria	Gammaproteobacteria	KF-JG30-C25	NA	NA	0	18	0	0	0	0
+1467	Bacteria	Firmicutes	Bacilli	Alicyclobacillales	Alicyclobacillaceae	Alicyclobacillus	0	9	9	0	0	0
+1468	Bacteria	Armatimonadota	Chthonomonadetes	Chthonomonadales	Chthonomonadaceae	Chthonomonas	0	6	12	0	0	0
+1469	Bacteria	Cyanobacteria	Vampirivibrionia	Obscuribacterales	Obscuribacteraceae	NA	0	0	18	0	0	0
+1470	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	NA	0	0	18	0	0	0
+1471	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	0	18	0	0	0
+1472	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	0	0	18	0	0	0
+1473	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Paraclostridium	0	0	0	18	0	0
+1474	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	NA	0	0	0	18	0	0
+1475	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	NA	0	0	0	18	0	0
+1476	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Cellulosilyticum	0	0	0	18	0	0
+1477	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	0	0	0	18	0	0
+1478	Bacteria	NA	NA	NA	NA	NA	0	0	0	18	0	0
+1479	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	0	0	0	18	0	0
+1480	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	18	0	0
+1481	Bacteria	Firmicutes	Desulfitobacteriia	Desulfitobacteriales	Desulfitobacteriaceae	Desulfitobacterium	0	0	0	18	0	0
+1482	Bacteria	Chloroflexi	Ktedonobacteria	C0119	NA	NA	0	0	0	18	0	0
+1483	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	18	0	0
+1484	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	18	0	0
+1485	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	0	0	18	0	0
+1486	Bacteria	Firmicutes	NA	NA	NA	NA	0	0	0	18	0	0
+1487	Bacteria	Actinobacteriota	Actinobacteria	Kineosporiales	Kineosporiaceae	NA	0	0	0	18	0	0
+1488	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	NA	0	0	0	18	0	0
+1489	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	mle1-7	0	0	0	18	0	0
+1490	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	18	0	0
+1491	Bacteria	Chloroflexi	Anaerolineae	SJA-15	NA	NA	0	0	0	13	5	0
+1492	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	NA	NA	0	0	0	12	0	6
+1493	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Hymenobacteraceae	Adhaeribacter	0	0	0	9	0	9
+1494	Bacteria	Myxococcota	Myxococcia	Myxococcales	Anaeromyxobacteraceae	Anaeromyxobacter	0	0	0	0	18	0
+1495	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Candidatus Udaeobacter	0	0	0	0	18	0
+1496	Bacteria	Acidobacteriota	Acidobacteriae	AKIW659	NA	NA	0	0	0	0	18	0
+1497	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	NA	0	0	0	0	18	0
+1498	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	0	18	0
+1499	Bacteria	Actinobacteriota	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Sphaerisporangium	0	0	0	0	18	0
+1500	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	NA	0	0	0	0	0	18
+1501	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	17	0	0	0	0	0
+1502	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1959-1	17	0	0	0	0	0
+1503	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	17	0	0	0	0	0
+1504	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	11	0	6	0	0	0
+1505	Bacteria	Chloroflexi	JG30-KF-CM66	NA	NA	NA	8	0	9	0	0	0
+1506	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	17	0	0	0
+1507	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	17	0	0	0
+1508	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	17	0	0	0
+1509	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	Candidatus Protochlamydia	0	0	17	0	0	0
+1510	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1921-2	0	0	17	0	0	0
+1511	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	17	0	0
+1512	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	NA	NA	0	0	0	17	0	0
+1513	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	17	0	0
+1514	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	NA	0	0	0	17	0	0
+1515	Bacteria	Actinobacteriota	Actinobacteria	Micromonosporales	Micromonosporaceae	Hamadaea	0	0	0	17	0	0
+1516	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	0	0	0	17	0	0
+1517	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Chromobacteriaceae	Pseudogulbenkiania	0	0	0	17	0	0
+1518	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Kribbella	0	0	0	17	0	0
+1519	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	0	0	0	17	0	0
+1520	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Sporomusaceae	NA	0	0	0	17	0	0
+1521	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	17	0	0
+1522	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Promicromonosporaceae	Xylanimonas	0	0	0	11	0	6
+1523	Bacteria	Actinobacteriota	Acidimicrobiia	NA	NA	NA	0	0	0	10	0	7
+1524	Bacteria	Verrucomicrobiota	Omnitrophia	Omnitrophales	Omnitrophaceae	Candidatus Omnitrophus	0	0	0	8	0	9
+1525	Bacteria	Firmicutes	Limnochordia	Hydrogenispora	NA	NA	0	0	0	0	17	0
+1526	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Rudaea	0	0	0	0	17	0
+1527	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	Ktedonobacter	0	0	0	0	9	8
+1528	Bacteria	WPS-2	NA	NA	NA	NA	0	0	0	0	0	17
+1529	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	Tellurimicrobium	0	0	0	0	0	17
+1530	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Sporomusaceae	NA	0	0	0	0	0	17
+1531	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	17
+1532	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	0	0	0	0	0	17
+1533	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	0	0	0	0	0	17
+1534	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas	0	0	0	0	0	17
+1535	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	16	0	0	0	0	0
+1536	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	NA	16	0	0	0	0	0
+1537	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	16	0	0	0	0	0
+1538	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Candidatus Berkiella	10	0	6	0	0	0
+1539	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1921-2	0	16	0	0	0	0
+1540	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	16	0	0	0
+1541	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	0	0	16	0	0	0
+1542	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	16	0	0	0
+1543	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	16	0	0	0
+1544	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Sporobacter	0	0	0	16	0	0
+1545	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	NA	0	0	0	16	0	0
+1546	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	0	0	0	16	0	0
+1547	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Roseomonas	0	0	0	16	0	0
+1548	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	0	0	0	16	0	0
+1549	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	16	0	0
+1550	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	0	0	0	16	0	0
+1551	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	0	0	16	0	0
+1552	Bacteria	Acidobacteriota	Subgroup 25	NA	NA	NA	0	0	0	16	0	0
+1553	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	16	0	0
+1554	Bacteria	Planctomycetota	Phycisphaerae	Pla1 lineage	NA	NA	0	0	0	16	0	0
+1555	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prolixibacteraceae	BSV13	0	0	0	16	0	0
+1556	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	0	0	0	16	0	0
+1557	Bacteria	Elusimicrobiota	Lineage IIb	NA	NA	NA	0	0	0	10	6	0
+1558	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	10	0	6
+1559	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	Neochlamydia	0	0	0	7	9	0
+1560	Bacteria	Planctomycetota	Phycisphaerae	MSBL9	SG8-4	NA	0	0	0	6	4	6
+1561	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	16	0
+1562	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	16	0
+1563	Bacteria	Firmicutes	Clostridia	Christensenellales	Christensenellaceae	NA	0	0	0	0	16	0
+1564	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	0	0	0	0	8	8
+1565	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	AKAU3564 sediment group	NA	0	0	0	0	0	16
+1566	Bacteria	Firmicutes	Limnochordia	Hydrogenispora	NA	NA	0	0	0	0	0	16
+1567	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	0	0	16
+1568	Bacteria	Firmicutes	Symbiobacteriia	Symbiobacteriales	Symbiobacteraceae	NA	0	0	0	0	0	16
+1569	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	0	0	0	0	16
+1570	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	15	0	0	0	0	0
+1571	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Granulicella	15	0	0	0	0	0
+1572	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	9	0	6	0	0	0
+1573	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	5	4	6	0	0	0
+1574	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Acidothermaceae	Acidothermus	0	15	0	0	0	0
+1575	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	15	0	0	0	0
+1576	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	15	0	0	0	0
+1577	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	15	0	0	0	0
+1578	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Singulisphaera	0	15	0	0	0	0
+1579	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	15	0	0	0
+1580	Archaea	Crenarchaeota	Nitrososphaeria	Group 1.1c	NA	NA	0	0	15	0	0	0
+1581	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	0	0	15	0	0	0
+1582	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	NA	0	0	15	0	0	0
+1583	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	0	0	15	0	0	0
+1584	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	NA	0	0	15	0	0	0
+1585	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	15	0	0	0
+1586	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	0	15	0	0	0
+1587	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	0	15	0	0	0
+1588	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir2 lineage	0	0	0	15	0	0
+1589	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Occallatibacter	0	0	0	15	0	0
+1590	Bacteria	Chloroflexi	Ktedonobacteria	C0119	NA	NA	0	0	0	15	0	0
+1591	Bacteria	Cyanobacteria	Sericytochromatia	NA	NA	NA	0	0	0	15	0	0
+1592	Bacteria	Myxococcota	Polyangia	Blfdi19	NA	NA	0	0	0	15	0	0
+1593	Bacteria	Myxococcota	bacteriap25	NA	NA	NA	0	0	0	15	0	0
+1594	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	15	0	0
+1595	Bacteria	Chloroflexi	JG30-KF-CM66	NA	NA	NA	0	0	0	15	0	0
+1596	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	0	15	0	0
+1597	Bacteria	Proteobacteria	NA	NA	NA	NA	0	0	0	15	0	0
+1598	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	15	0	0
+1599	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	A21b	NA	0	0	0	15	0	0
+1600	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Candidatus Ovatusbacter	0	0	0	15	0	0
+1601	Bacteria	Chloroflexi	AD3	NA	NA	NA	0	0	0	15	0	0
+1602	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	NA	0	0	0	15	0	0
+1603	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	15	0	0
+1604	Bacteria	Chloroflexi	Ktedonobacteria	C0119	NA	NA	0	0	0	15	0	0
+1605	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	0	0	0	15	0	0
+1606	Bacteria	Firmicutes	Bacilli	Thermoactinomycetales	Thermoactinomycetaceae	Risungbinella	0	0	0	15	0	0
+1607	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	0	0	7	0	8
+1608	Bacteria	Armatimonadota	Chthonomonadetes	Chthonomonadales	NA	NA	0	0	0	0	15	0
+1609	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	0	0	15	0
+1610	Bacteria	Chloroflexi	Dehalococcoidia	S085	NA	NA	0	0	0	0	15	0
+1611	Bacteria	Firmicutes	Bacilli	Thermoactinomycetales	Thermoactinomycetaceae	Shimazuella	0	0	0	0	15	0
+1612	Bacteria	Planctomycetota	Phycisphaerae	NA	NA	NA	0	0	0	0	6	9
+1613	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	0	0	15
+1614	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	0	0	15
+1615	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Microvirga	0	0	0	0	0	15
+1616	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	15
+1617	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	A0839	NA	0	0	0	0	0	15
+1618	Bacteria	Bacteroidota	Kapabacteria	Kapabacteriales	NA	NA	0	0	0	0	0	15
+1619	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	14	0	0	0	0	0
+1620	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	8	0	6	0	0	0
+1621	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	NA	0	14	0	0	0	0
+1622	Bacteria	Dependentiae	Babeliae	Babeliales	Babeliaceae	NA	0	14	0	0	0	0
+1623	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	14	0	0	0	0
+1624	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Acidobacteriaceae (Subgroup 1)	Occallatibacter	0	0	14	0	0	0
+1625	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	0	0	14	0	0	0
+1626	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	0	0	14	0	0	0
+1627	Bacteria	Actinobacteriota	Actinobacteria	Catenulisporales	Actinospicaceae	Actinospica	0	0	14	0	0	0
+1628	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	NA	0	0	0	14	0	0
+1629	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	14	0	0
+1630	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	SH-PL14	0	0	0	14	0	0
+1631	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	14	0	0
+1632	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae	NA	0	0	0	14	0	0
+1633	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	MND1	0	0	0	14	0	0
+1634	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	14	0	0
+1635	Bacteria	Planctomycetota	BD7-11	NA	NA	NA	0	0	0	14	0	0
+1636	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Roseomonas	0	0	0	14	0	0
+1637	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	14	0	0
+1638	Bacteria	Actinobacteriota	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	0	0	0	14	0	0
+1639	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	0	0	0	14	0	0
+1640	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	0	0	14	0	0
+1641	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	14	0	0
+1642	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	0	0	0	14	0	0
+1643	Bacteria	Firmicutes	Bacilli	Alicyclobacillales	Alicyclobacillaceae	Alicyclobacillus	0	0	0	14	0	0
+1644	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	0	0	0	14	0	0
+1645	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	NA	NA	0	0	0	14	0	0
+1646	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	14	0	0
+1647	Bacteria	Armatimonadota	Chthonomonadetes	Chthonomonadales	Chthonomonadaceae	Chthonomonas	0	0	0	14	0	0
+1648	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Vicinamibacter	0	0	0	14	0	0
+1649	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	NA	0	0	0	10	4	0
+1650	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Sporomusaceae	NA	0	0	0	10	0	4
+1651	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	NA	0	0	0	7	0	7
+1652	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	NA	0	0	0	7	0	7
+1653	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SC-I-84	NA	0	0	0	0	14	0
+1654	Bacteria	Cyanobacteria	Sericytochromatia	NA	NA	NA	0	0	0	0	14	0
+1655	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	0	14	0
+1656	Bacteria	RCP2-54	NA	NA	NA	NA	0	0	0	0	14	0
+1657	Bacteria	Nitrospirota	4-29-1	NA	NA	NA	0	0	0	0	7	7
+1658	Bacteria	Firmicutes	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	0	0	0	0	3	11
+1659	Bacteria	Acidobacteriota	Acidobacteriae	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	0	0	0	0	0	14
+1660	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	NA	0	0	0	0	0	14
+1661	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir2 lineage	0	0	0	0	0	14
+1662	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	NA	0	0	0	0	0	14
+1663	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Domibacillus	0	0	0	0	0	14
+1664	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prolixibacteraceae	BSV13	0	0	0	0	0	14
+1665	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	14
+1666	Bacteria	Chloroflexi	AD3	NA	NA	NA	0	0	0	0	0	14
+1667	Bacteria	Latescibacterota	NA	NA	NA	NA	0	0	0	0	0	14
+1668	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Oceanobacillus	0	0	0	0	0	14
+1669	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	0	0	0	0	0	14
+1670	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	mle1-7	0	0	0	0	0	14
+1671	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	0	0	0	0	0	14
+1672	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	NA	0	0	0	0	0	14
+1673	Bacteria	Planctomycetota	BD7-11	NA	NA	NA	13	0	0	0	0	0
+1674	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Sutterellaceae	NA	13	0	0	0	0	0
+1675	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	13	0	0	0	0	0
+1676	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methyloligellaceae	NA	13	0	0	0	0	0
+1677	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	13	0	0	0	0
+1678	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	URHD0088	NA	0	13	0	0	0	0
+1679	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	0	13	0	0	0
+1680	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Conexibacter	0	0	13	0	0	0
+1681	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	0	13	0	0	0
+1682	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Puia	0	0	13	0	0	0
+1683	Bacteria	Myxococcota	Polyangia	Blfdi19	NA	NA	0	0	13	0	0	0
+1684	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Gemmata	0	0	0	13	0	0
+1685	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	0	0	0	13	0	0
+1686	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	0	0	0	13	0	0
+1687	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	0	0	13	0	0
+1688	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	NA	0	0	0	13	0	0
+1689	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas	0	0	0	13	0	0
+1690	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	0	0	0	13	0	0
+1691	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	Nordella	0	0	0	13	0	0
+1692	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	0	13	0	0
+1693	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	0	0	0	13	0	0
+1694	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	13	0	0
+1695	Bacteria	NA	NA	NA	NA	NA	0	0	0	13	0	0
+1696	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Leptolinea	0	0	0	13	0	0
+1697	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	NA	0	0	0	13	0	0
+1698	Bacteria	Planctomycetota	Phycisphaerae	S-70	NA	NA	0	0	0	11	0	2
+1699	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	Neochlamydia	0	0	0	10	0	3
+1700	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Incertae Sedis	0	0	0	8	0	5
+1701	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	NA	NA	0	0	0	8	5	0
+1702	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	NA	0	0	0	0	13	0
+1703	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	AKAU3564 sediment group	NA	0	0	0	0	13	0
+1704	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	0	0	0	0	0	13
+1705	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir1 lineage	0	0	0	0	0	13
+1706	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	0	0	0	0	0	13
+1707	Bacteria	Myxococcota	Polyangia	Blfdi19	NA	NA	0	0	0	0	0	13
+1708	Bacteria	Elusimicrobiota	Endomicrobia	Endomicrobiales	Endomicrobiaceae	Endomicrobium	0	0	0	0	0	13
+1709	Bacteria	Chloroflexi	NA	NA	NA	NA	0	0	0	0	0	13
+1710	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	Aquisphaera	0	0	0	0	0	13
+1711	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	UTBCD1	0	0	0	0	0	13
+1712	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	13
+1713	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	12	0	0	0	0	0
+1714	Bacteria	Actinobacteriota	Actinobacteria	0319-7L14	NA	NA	12	0	0	0	0	0
+1715	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	12	0	0	0	0	0
+1716	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	12	0	0	0	0
+1717	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	12	0	0	0	0
+1718	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	0	12	0	0	0	0
+1719	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	12	0	0	0	0
+1720	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	Rhizomicrobium	0	0	12	0	0	0
+1721	Bacteria	WPS-2	NA	NA	NA	NA	0	0	12	0	0	0
+1722	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	12	0	0	0
+1723	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	0	0	12	0	0	0
+1724	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	Ruminiclostridium	0	0	12	0	0	0
+1725	Bacteria	Chloroflexi	Ktedonobacteria	B12-WMSP1	NA	NA	0	0	12	0	0	0
+1726	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	0	0	0	12	0	0
+1727	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	NA	0	0	0	12	0	0
+1728	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	0	0	0	12	0	0
+1729	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	12	0	0
+1730	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	0	0	0	12	0	0
+1731	Bacteria	WS4	NA	NA	NA	NA	0	0	0	12	0	0
+1732	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	12	0	0
+1733	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Bacteriovorax	0	0	0	9	3	0
+1734	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	SM1A02	0	0	0	4	0	8
+1735	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	cvE6	NA	0	0	0	4	0	8
+1736	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	NA	0	0	0	0	12	0
+1737	Bacteria	Armatimonadota	NA	NA	NA	NA	0	0	0	0	12	0
+1738	Bacteria	Firmicutes	Desulfitobacteriia	Desulfitobacteriales	Desulfitobacteriaceae	Desulfitobacterium	0	0	0	0	12	0
+1739	Bacteria	Dependentiae	Babeliae	Babeliales	NA	NA	0	0	0	0	12	0
+1740	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prolixibacteraceae	BSV13	0	0	0	0	12	0
+1741	Bacteria	Myxococcota	Polyangia	mle1-27	NA	NA	0	0	0	0	12	0
+1742	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Actinopolymorpha	0	0	0	0	0	12
+1743	Bacteria	Proteobacteria	Gammaproteobacteria	Salinisphaerales	Solimonadaceae	Panacagrimonas	0	0	0	0	0	12
+1744	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	0	0	0	0	0	12
+1745	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	NA	NA	0	0	0	0	0	12
+1746	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	0	0	12
+1747	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	0	0	0	0	0	12
+1748	Bacteria	Proteobacteria	Gammaproteobacteria	Salinisphaerales	Solimonadaceae	Alkanibacter	0	0	0	0	0	12
+1749	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	AKAU3564 sediment group	NA	0	0	0	0	0	12
+1750	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	NA	0	0	0	0	0	12
+1751	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 13	NA	NA	0	0	0	0	0	12
+1752	Bacteria	Firmicutes	Clostridia	Thermincolales	Thermincolaceae	Thermincola	0	0	0	0	0	12
+1753	Bacteria	Cyanobacteria	Vampirivibrionia	Obscuribacterales	Obscuribacteraceae	NA	11	0	0	0	0	0
+1754	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	11	0	0	0	0	0
+1755	Bacteria	Elusimicrobiota	Lineage IIa	NA	NA	NA	11	0	0	0	0	0
+1756	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	HSB OF53-F07	11	0	0	0	0	0
+1757	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Microbacteriaceae	Leifsonia	0	11	0	0	0	0
+1758	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	11	0	0	0	0
+1759	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	0	11	0	0	0	0
+1760	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	0	11	0	0	0	0
+1761	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	11	0	0	0
+1762	Bacteria	WPS-2	NA	NA	NA	NA	0	0	11	0	0	0
+1763	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	Ktedonobacter	0	0	11	0	0	0
+1764	Bacteria	Chloroflexi	AD3	NA	NA	NA	0	0	11	0	0	0
+1765	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	11	0	0	0
+1766	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	0	11	0	0	0
+1767	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	0	0	0	11	0	0
+1768	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	11	0	0
+1769	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	NA	0	0	0	11	0	0
+1770	Bacteria	Sumerlaeota	Sumerlaeia	Sumerlaeales	Sumerlaeaceae	Sumerlaea	0	0	0	11	0	0
+1771	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidetes vadinHA17	NA	0	0	0	11	0	0
+1772	Bacteria	Firmicutes	Syntrophomonadia	Syntrophomonadales	Syntrophomonadaceae	Syntrophomonas	0	0	0	11	0	0
+1773	Bacteria	Myxococcota	Polyangia	Blfdi19	NA	NA	0	0	0	11	0	0
+1774	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	0	0	0	11	0	0
+1775	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	0	0	0	11	0	0
+1776	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	0	0	11	0	0
+1777	Bacteria	Chloroflexi	Ktedonobacteria	C0119	NA	NA	0	0	0	11	0	0
+1778	Bacteria	Armatimonadota	Chthonomonadetes	Chthonomonadales	NA	NA	0	0	0	11	0	0
+1779	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	11	0	0
+1780	Bacteria	Armatimonadota	Armatimonadia	Armatimonadales	NA	NA	0	0	0	11	0	0
+1781	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	0	0	0	11	0	0
+1782	Archaea	Halobacterota	Methanocellia	Methanocellales	Methanocellaceae	Methanocella	0	0	0	7	4	0
+1783	Bacteria	Chloroflexi	NA	NA	NA	NA	0	0	0	4	0	7
+1784	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Pseudaminobacter	0	0	0	0	11	0
+1785	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	AKAU3564 sediment group	NA	0	0	0	0	11	0
+1786	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	0	11	0
+1787	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	NA	NA	0	0	0	0	11	0
+1788	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	0	0	0	0	0	11
+1789	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	0	0	0	0	0	11
+1790	Bacteria	Planctomycetota	BD7-11	NA	NA	NA	0	0	0	0	0	11
+1791	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	0	0	0	0	0	11
+1792	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	0	0	0	0	0	11
+1793	Bacteria	Myxococcota	Polyangia	mle1-27	NA	NA	0	0	0	0	0	11
+1794	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	11
+1795	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	10	0	0	0	0	0
+1796	Bacteria	Armatimonadota	Chthonomonadetes	Chthonomonadales	Chthonomonadaceae	Chthonomonas	10	0	0	0	0	0
+1797	Bacteria	Dependentiae	Babeliae	Babeliales	Babeliaceae	NA	0	10	0	0	0	0
+1798	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	0	10	0	0	0	0
+1799	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1921-2	0	10	0	0	0	0
+1800	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	0	0	10	0	0	0
+1801	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	NA	0	0	0	10	0	0
+1802	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	10	0	0
+1803	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	10	0	0
+1804	Bacteria	Latescibacterota	NA	NA	NA	NA	0	0	0	10	0	0
+1805	Bacteria	Verrucomicrobiota	Verrucomicrobiae	S-BQ2-57 soil group	NA	NA	0	0	0	10	0	0
+1806	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	NA	0	0	0	10	0	0
+1807	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	0	0	0	10	0	0
+1808	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	10	0	0
+1809	Bacteria	Cyanobacteria	Vampirivibrionia	Vampirovibrionales	Vampirovibrionaceae	NA	0	0	0	10	0	0
+1810	Bacteria	Myxococcota	bacteriap25	NA	NA	NA	0	0	0	10	0	0
+1811	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methyloparacoccus	0	0	0	10	0	0
+1812	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	0	0	0	10	0	0
+1813	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	10	0	0
+1814	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	0	0	0	10	0	0
+1815	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	10	0	0
+1816	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	10	0	0
+1817	Bacteria	Armatimonadota	Chthonomonadetes	Chthonomonadales	NA	NA	0	0	0	10	0	0
+1818	Bacteria	Myxococcota	Myxococcia	Myxococcales	Anaeromyxobacteraceae	Anaeromyxobacter	0	0	0	10	0	0
+1819	Bacteria	Armatimonadota	Chthonomonadetes	Chthonomonadales	Chthonomonadaceae	Chthonomonas	0	0	0	0	10	0
+1820	Bacteria	Chloroflexi	Chloroflexia	Thermomicrobiales	JG30-KF-CM45	NA	0	0	0	0	0	10
+1821	Bacteria	Planctomycetota	OM190	NA	NA	NA	0	0	0	0	0	10
+1822	Bacteria	Firmicutes	NA	NA	NA	NA	0	0	0	0	0	10
+1823	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	10
+1824	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosotaleales	Nitrosotaleaceae	Candidatus Nitrosotalea	0	0	0	0	0	10
+1825	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	9	0	0	0	0	0
+1826	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	9	0	0	0	0
+1827	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	9	0	0	0	0
+1828	Bacteria	Myxococcota	Polyangia	mle1-27	NA	NA	0	0	9	0	0	0
+1829	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	NA	NA	0	0	9	0	0	0
+1830	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	FCPS473	0	0	9	0	0	0
+1831	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	9	0	0	0
+1832	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	9	0	0	0
+1833	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	0	0	0	9	0	0
+1834	Bacteria	Myxococcota	Polyangia	Blfdi19	NA	NA	0	0	0	9	0	0
+1835	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	9	0	0
+1836	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	9	0	0
+1837	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	0	0	0	9	0	0
+1838	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	0	0	0	9	0	0
+1839	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	NA	0	0	0	9	0	0
+1840	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	0	0	9	0	0
+1841	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	AKAU3564 sediment group	NA	0	0	0	9	0	0
+1842	Bacteria	Armatimonadota	NA	NA	NA	NA	0	0	0	9	0	0
+1843	Bacteria	Dependentiae	Babeliae	Babeliales	NA	NA	0	0	0	9	0	0
+1844	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	0	0	9	0	0
+1845	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Cavicella	0	0	0	9	0	0
+1846	Bacteria	NB1-j	NA	NA	NA	NA	0	0	0	9	0	0
+1847	Bacteria	Patescibacteria	CPR2	NA	NA	NA	0	0	0	9	0	0
+1848	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Cellulosilyticum	0	0	0	9	0	0
+1849	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylocaldum	0	0	0	9	0	0
+1850	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	9	0	0
+1851	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	0	0	0	9	0	0
+1852	Bacteria	Planctomycetota	OM190	NA	NA	NA	0	0	0	9	0	0
+1853	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	0	0	9	0	0
+1854	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Sedimentibacteraceae	Sedimentibacter	0	0	0	0	9	0
+1855	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	0	0	0	9	0
+1856	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	9	0
+1857	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	0	0	0	9	0
+1858	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	NA	NA	0	0	0	0	0	9
+1859	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Geodermatophilaceae	Geodermatophilus	0	0	0	0	0	9
+1860	Bacteria	Firmicutes	Desulfitobacteriia	Desulfitobacteriales	Desulfitobacteriaceae	Desulfitobacterium	0	0	0	0	0	9
+1861	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Gemmata	0	0	0	0	0	9
+1862	Bacteria	Acidobacteriota	Acidobacteriae	Solibacterales	Solibacteraceae	Candidatus Solibacter	8	0	0	0	0	0
+1863	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	8	0	0	0	0
+1864	Bacteria	Myxococcota	Polyangia	Blfdi19	NA	NA	0	8	0	0	0	0
+1865	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	4	4	0	0	0
+1866	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1921-2	0	0	8	0	0	0
+1867	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	8	0	0	0
+1868	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	ADurb.Bin063-1	0	0	8	0	0	0
+1869	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	8	0	0	0
+1870	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	0	0	0	8	0	0
+1871	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	0	0	8	0	0
+1872	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	0	0	0	8	0	0
+1873	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Spirochaeta	0	0	0	8	0	0
+1874	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	0	0	0	8	0	0
+1875	Bacteria	Proteobacteria	Gammaproteobacteria	R7C24	NA	NA	0	0	0	8	0	0
+1876	Bacteria	Firmicutes	NA	NA	NA	NA	0	0	0	8	0	0
+1877	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	0	0	8	0	0
+1878	Bacteria	Chloroflexi	Anaerolineae	NA	NA	NA	0	0	0	8	0	0
+1879	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	8	0	0
+1880	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	0	0	0	8	0	0
+1881	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	8	0	0
+1882	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	0	0	0	8	0	0
+1883	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	Ktedonobacter	0	0	0	8	0	0
+1884	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	0	8	0	0
+1885	Bacteria	Acidobacteriota	Subgroup 22	NA	NA	NA	0	0	0	8	0	0
+1886	Bacteria	Cyanobacteria	Vampirivibrionia	Gastranaerophilales	NA	NA	0	0	0	8	0	0
+1887	Bacteria	NA	NA	NA	NA	NA	0	0	0	8	0	0
+1888	Bacteria	Firmicutes	NA	NA	NA	NA	0	0	0	8	0	0
+1889	Bacteria	Armatimonadota	NA	NA	NA	NA	0	0	0	8	0	0
+1890	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1921-2	0	0	0	8	0	0
+1891	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	0	0	0	0	8	0
+1892	Bacteria	WPS-2	NA	NA	NA	NA	0	0	0	0	8	0
+1893	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Microscillaceae	NA	0	0	0	0	8	0
+1894	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	0	0	0	0	8
+1895	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	0	0	8
+1896	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	0	0	0	0	8
+1897	Bacteria	Planctomycetota	vadinHA49	NA	NA	NA	0	0	0	0	0	8
+1898	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	0	0	8
+1899	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Intrasporangiaceae	Terrabacter	0	0	0	0	0	8
+1900	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Candidatus Berkiella	0	0	0	0	0	8
+1901	Bacteria	Planctomycetota	Phycisphaerae	MSBL9	GWC2-45-44	NA	0	0	0	0	0	8
+1902	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	0	0	0	8
+1903	Bacteria	Firmicutes	Symbiobacteriia	Symbiobacteriales	Symbiobacteraceae	Symbiobacterium	0	0	0	0	0	8
+1904	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	7	0	0	0	0	0
+1905	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	7	0	0	0	0	0
+1906	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	7	0	0	0	0	0
+1907	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	5	2	0	0	0	0
+1908	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 13	NA	NA	0	7	0	0	0	0
+1909	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	7	0	0	0	0
+1910	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	7	0	0	0	0
+1911	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 15	NA	NA	0	0	7	0	0	0
+1912	Archaea	Thermoplasmatota	Thermoplasmata	NA	NA	NA	0	0	7	0	0	0
+1913	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	0	0	0	7	0	0
+1914	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	0	0	7	0	0
+1915	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	7	0	0
+1916	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	0	0	0	7	0	0
+1917	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1921-3	0	0	0	7	0	0
+1918	Bacteria	Myxococcota	Polyangia	Polyangiales	BIrii41	NA	0	0	0	7	0	0
+1919	Bacteria	MBNT15	NA	NA	NA	NA	0	0	0	7	0	0
+1920	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	0	0	0	7	0	0
+1921	Bacteria	Armatimonadota	Armatimonadia	Armatimonadales	NA	NA	0	0	0	7	0	0
+1922	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	0	0	0	7	0	0
+1923	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	0	0	0	7	0	0
+1924	Bacteria	Proteobacteria	Gammaproteobacteria	Salinisphaerales	Solimonadaceae	Alkanibacter	0	0	0	7	0	0
+1925	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	0	0	0	7	0	0
+1926	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Chthoniobacter	0	0	0	7	0	0
+1927	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	0	0	0	7	0	0
+1928	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	7	0	0
+1929	Bacteria	Chloroflexi	Chloroflexia	Thermomicrobiales	AKYG1722	NA	0	0	0	7	0	0
+1930	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	0	0	0	7	0	0
+1931	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Fimbriiglobus	0	0	0	7	0	0
+1932	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	0	0	0	7	0	0
+1933	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	0	7	0
+1934	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	NA	NA	0	0	0	0	7	0
+1935	Bacteria	Cyanobacteria	Sericytochromatia	NA	NA	NA	0	0	0	0	7	0
+1936	Bacteria	Cyanobacteria	NA	NA	NA	NA	0	0	0	0	7	0
+1937	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	NA	0	0	0	0	7	0
+1938	Bacteria	Armatimonadota	DG-56	NA	NA	NA	0	0	0	0	7	0
+1939	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	0	0	0	0	7	0
+1940	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Saccharopolyspora	0	0	0	0	7	0
+1941	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	FFCH9454	NA	0	0	0	0	0	7
+1942	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	SM1A02	0	0	0	0	0	7
+1943	Bacteria	Proteobacteria	Alphaproteobacteria	Paracaedibacterales	Paracaedibacteraceae	Candidatus Captivus	0	0	0	0	0	7
+1944	Bacteria	Acidobacteriota	Holophagae	Subgroup 7	NA	NA	0	0	0	0	0	7
+1945	Bacteria	Proteobacteria	Alphaproteobacteria	Dongiales	Dongiaceae	Dongia	0	0	0	0	0	7
+1946	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	7
+1947	Bacteria	Chloroflexi	NLS2-31	NA	NA	NA	0	0	0	0	0	7
+1948	Bacteria	Dependentiae	Babeliae	Babeliales	UBA12409	NA	0	0	0	0	0	7
+1949	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	0	0	7
+1950	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	0	0	0	0	7
+1951	Bacteria	Acidobacteriota	Acidobacteriae	Subgroup 2	NA	NA	6	0	0	0	0	0
+1952	Bacteria	Actinobacteriota	Actinobacteria	Catenulisporales	Actinospicaceae	Actinospica	6	0	0	0	0	0
+1953	Bacteria	Firmicutes	Bacilli	Thermoactinomycetales	Thermoactinomycetaceae	Pasteuria	6	0	0	0	0	0
+1954	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1921-2	6	0	0	0	0	0
+1955	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	6	0	0	0	0	0
+1956	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	0	6	0	0	0	0
+1957	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	NA	NA	0	6	0	0	0	0
+1958	Bacteria	Dependentiae	Babeliae	Babeliales	UBA12409	NA	0	6	0	0	0	0
+1959	Bacteria	Chloroflexi	Ktedonobacteria	B12-WMSP1	NA	NA	0	6	0	0	0	0
+1960	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	0	0	6	0	0	0
+1961	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	6	0	0	0
+1962	Bacteria	Cyanobacteria	Vampirivibrionia	Obscuribacterales	Obscuribacteraceae	NA	0	0	6	0	0	0
+1963	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Chthoniobacter	0	0	6	0	0	0
+1964	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	NA	0	0	6	0	0	0
+1965	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	0	0	6	0	0	0
+1966	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	6	0	0	0
+1967	Bacteria	Actinobacteriota	Actinobacteria	NA	NA	NA	0	0	6	0	0	0
+1968	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	NA	0	0	0	6	0	0
+1969	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	NA	0	0	0	6	0	0
+1970	Bacteria	Chloroflexi	Anaerolineae	ADurb.Bin180	NA	NA	0	0	0	6	0	0
+1971	Bacteria	NA	NA	NA	NA	NA	0	0	0	6	0	0
+1972	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Spirochaeta 2	0	0	0	6	0	0
+1973	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	0	0	6	0	0
+1974	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	0	0	0	6	0	0
+1975	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	6	0	0
+1976	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	6	0	0
+1977	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Flavisolibacter	0	0	0	6	0	0
+1978	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	AB1	NA	0	0	0	6	0	0
+1979	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	6	0	0
+1980	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	0	0	0	6	0	0
+1981	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	NA	0	0	0	6	0	0
+1982	Bacteria	Chloroflexi	Chloroflexia	Chloroflexales	Roseiflexaceae	NA	0	0	0	0	6	0
+1983	Bacteria	Verrucomicrobiota	Omnitrophia	Omnitrophales	Omnitrophaceae	Candidatus Omnitrophus	0	0	0	0	6	0
+1984	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	0	0	0	0	6	0
+1985	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	0	0	0	0	6	0
+1986	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	0	6	0
+1987	Bacteria	Myxococcota	bacteriap25	NA	NA	NA	0	0	0	0	6	0
+1988	Bacteria	Chloroflexi	Chloroflexia	Thermomicrobiales	JG30-KF-CM45	NA	0	0	0	0	6	0
+1989	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	0	0	0	0	6	0
+1990	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	0	0	0	0	6	0
+1991	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	NA	NA	0	0	0	0	0	6
+1992	Bacteria	Firmicutes	BRH-c20a	NA	NA	NA	0	0	0	0	0	6
+1993	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	NA	NA	0	0	0	0	0	6
+1994	Bacteria	Desulfobacterota	Syntrophia	Syntrophales	NA	NA	0	0	0	0	0	6
+1995	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	NA	0	0	0	0	0	6
+1996	Bacteria	Cyanobacteria	Sericytochromatia	NA	NA	NA	0	0	0	0	0	6
+1997	Bacteria	Planctomycetota	Phycisphaerae	NA	NA	NA	0	0	0	0	0	6
+1998	Bacteria	FCPU426	NA	NA	NA	NA	0	0	0	0	0	6
+1999	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	0	0	6
+2000	Bacteria	Proteobacteria	Alphaproteobacteria	Paracaedibacterales	Paracaedibacteraceae	Candidatus Paracaedibacter	0	0	0	0	0	6
+2001	Bacteria	Acidobacteriota	Subgroup 25	NA	NA	NA	0	0	0	0	0	6
+2002	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	0	0	0	0	0	6
+2003	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	0	0	0	0	0	6
+2004	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	5	0	0	0	0	0
+2005	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	5	0	0	0	0	0
+2006	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	5	0	0	0	0	0
+2007	Bacteria	NA	NA	NA	NA	NA	3	2	0	0	0	0
+2008	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	5	0	0	0	0
+2009	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1921-3	0	5	0	0	0	0
+2010	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Candidatus Soleaferrea	0	5	0	0	0	0
+2011	Bacteria	Chloroflexi	JG30-KF-CM66	NA	NA	NA	0	5	0	0	0	0
+2012	Bacteria	Firmicutes	Sulfobacillia	Sulfobacillales	Sulfobacillaceae	NA	0	0	5	0	0	0
+2013	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	0	0	5	0	0	0
+2014	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	Neochlamydia	0	0	0	5	0	0
+2015	Bacteria	Acidobacteriota	Holophagae	Subgroup 7	NA	NA	0	0	0	5	0	0
+2016	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	5	0	0
+2017	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	NA	0	0	0	5	0	0
+2018	Bacteria	Cyanobacteria	Cyanobacteriia	Leptolyngbyales	Leptolyngbyaceae	JSC-12	0	0	0	5	0	0
+2019	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	0	0	5	0	0
+2020	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	NA	0	0	0	5	0	0
+2021	Bacteria	Planctomycetota	OM190	NA	NA	NA	0	0	0	5	0	0
+2022	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	NA	0	0	0	5	0	0
+2023	Bacteria	FCPU426	NA	NA	NA	NA	0	0	0	5	0	0
+2024	Bacteria	Firmicutes	NA	NA	NA	NA	0	0	0	5	0	0
+2025	Bacteria	Chloroflexi	Chloroflexia	Chloroflexales	Roseiflexaceae	NA	0	0	0	5	0	0
+2026	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	NA	NA	0	0	0	0	5	0
+2027	Bacteria	Proteobacteria	Gammaproteobacteria	EC3	NA	NA	0	0	0	0	5	0
+2028	Bacteria	Chloroflexi	NA	NA	NA	NA	0	0	0	0	5	0
+2029	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	NA	NA	0	0	0	0	5	0
+2030	Bacteria	Myxococcota	Polyangia	Blfdi19	NA	NA	0	0	0	0	5	0
+2031	Bacteria	Planctomycetota	Phycisphaerae	mle1-8	NA	NA	0	0	0	0	0	5
+2032	Bacteria	Acidobacteriota	Vicinamibacteria	Subgroup 17	NA	NA	0	0	0	0	0	5
+2033	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	0	0	5
+2034	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	0	0	0	0	0	5
+2035	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	FCPS473	0	0	0	0	0	5
+2036	Bacteria	Fibrobacterota	Fibrobacteria	Fibrobacterales	Fibrobacteraceae	possible genus 04	0	0	0	0	0	5
+2037	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	NA	0	0	0	0	0	5
+2038	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	0	0	0	0	0	5
+2039	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	0	0	0	0	0	5
+2040	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	0	0	0	0	0	5
+2041	Bacteria	Chloroflexi	Chloroflexia	Thermomicrobiales	AKYG1722	NA	0	0	0	0	0	5
+2042	Bacteria	Actinobacteriota	Rubrobacteria	Rubrobacterales	Rubrobacteriaceae	Rubrobacter	0	0	0	0	0	5
+2043	Bacteria	Planctomycetota	NA	NA	NA	NA	0	0	0	0	0	5
+2044	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	NA	4	0	0	0	0	0
+2045	Bacteria	Myxococcota	Myxococcia	Myxococcales	Anaeromyxobacteraceae	Anaeromyxobacter	4	0	0	0	0	0
+2046	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	Thermosporothrix	4	0	0	0	0	0
+2047	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	NA	4	0	0	0	0	0
+2048	Bacteria	Acidobacteriota	Holophagae	Subgroup 7	NA	NA	4	0	0	0	0	0
+2049	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	4	0	0	0	0
+2050	Bacteria	Actinobacteriota	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinocorallia	0	4	0	0	0	0
+2051	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	0	4	0	0	0	0
+2052	Bacteria	Chloroflexi	NA	NA	NA	NA	0	0	4	0	0	0
+2053	Bacteria	NA	NA	NA	NA	NA	0	0	0	4	0	0
+2054	Bacteria	Bacteroidota	Ignavibacteria	SJA-28	NA	NA	0	0	0	4	0	0
+2055	Bacteria	Firmicutes	NA	NA	NA	NA	0	0	0	4	0	0
+2056	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	SWB02	0	0	0	4	0	0
+2057	Bacteria	Myxococcota	Polyangia	Blfdi19	NA	NA	0	0	0	4	0	0
+2058	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	NA	0	0	0	4	0	0
+2059	Bacteria	Nitrospirota	Leptospirillia	Leptospirillales	Leptospirillaceae	Leptospirillum	0	0	0	4	0	0
+2060	Bacteria	Deferrisomatota	Defferrisomatia	Defferrisomatales	Defferrisomataceae	Deferrisoma	0	0	0	4	0	0
+2061	Bacteria	Dependentiae	Babeliae	Babeliales	NA	NA	0	0	0	4	0	0
+2062	Bacteria	Firmicutes	NA	NA	NA	NA	0	0	0	4	0	0
+2063	Bacteria	Chloroflexi	AD3	NA	NA	NA	0	0	0	4	0	0
+2064	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	Lentimicrobium	0	0	0	4	0	0
+2065	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Sedimentibacteraceae	Sedimentibacter	0	0	0	4	0	0
+2066	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	0	4	0
+2067	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	NA	0	0	0	0	4	0
+2068	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	Neochlamydia	0	0	0	0	4	0
+2069	Bacteria	Firmicutes	Syntrophomonadia	Syntrophomonadales	Syntrophomonadaceae	NA	0	0	0	0	4	0
+2070	Bacteria	Firmicutes	Bacilli	Alicyclobacillales	Alicyclobacillaceae	Acidibacillus	0	0	0	0	0	4
+2071	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	0	0	0	0	0	4
+2072	Bacteria	Bacteroidota	Kryptonia	Kryptoniales	BSV26	NA	0	0	0	0	0	4
+2073	Bacteria	Bacteroidota	Ignavibacteria	Ignavibacteriales	BSV40	NA	0	0	0	0	0	4
+2074	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	0	0	0	0	0	4
+2075	Bacteria	FCPU426	NA	NA	NA	NA	0	0	0	0	0	4
+2076	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	0	0	0	0	0	4
+2077	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	3	0	0	0	0	0
+2078	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	3	0	0	0	0	0
+2079	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	NA	3	0	0	0	0	0
+2080	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	3	0	0	0	0	0
+2081	Bacteria	Acidobacteriota	Blastocatellia	11-24	NA	NA	0	3	0	0	0	0
+2082	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	0	3	0	0	0	0
+2083	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	1921-2	0	3	0	0	0	0
+2084	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	FCPS473	0	3	0	0	0	0
+2085	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Tyzzerella	0	3	0	0	0	0
+2086	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	NA	0	0	3	0	0	0
+2087	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30-KF-AS9	NA	0	0	3	0	0	0
+2088	Bacteria	Firmicutes	Clostridia	Peptococcales	Peptococcaceae	NA	0	0	3	0	0	0
+2089	Bacteria	Firmicutes	Clostridia	Oscillospirales	NA	NA	0	0	3	0	0	0
+2090	Bacteria	Latescibacterota	Latescibacteria	Latescibacterales	Latescibacteraceae	Candidatus Latescibacter	0	0	0	3	0	0
+2091	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	0	0	0	3	0	0
+2092	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	3	0	0
+2093	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	0	0	3	0	0
+2094	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	0	0	3	0	0
+2095	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	SM1A02	0	0	0	3	0	0
+2096	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	AKYH767	NA	0	0	0	3	0	0
+2097	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	AKYH767	NA	0	0	0	0	3	0
+2098	Bacteria	Sumerlaeota	Sumerlaeia	Sumerlaeales	Sumerlaeaceae	Sumerlaea	0	0	0	0	3	0
+2099	Bacteria	FCPU426	NA	NA	NA	NA	0	0	0	0	3	0
+2100	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Aeromonadaceae	Aeromonas	0	0	0	0	0	3
+2101	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Simkaniaceae	NA	0	0	0	0	0	3
+2102	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	0	0	0	0	0	3
+2103	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Spirochaeta	0	0	0	0	0	3
+2104	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	NA	NA	0	0	0	0	0	3
+2105	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	0	0	0	0	0	3
+2106	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	0	0	3
+2107	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	FCPS473	2	0	0	0	0	0
+2108	Bacteria	NA	NA	NA	NA	NA	2	0	0	0	0	0
+2109	Bacteria	Planctomycetota	Planctomycetes	NA	NA	NA	2	0	0	0	0	0
+2110	Bacteria	Firmicutes	Clostridia	Oscillospirales	NA	NA	0	0	2	0	0	0
+2111	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	NA	0	0	2	0	0	0
+2112	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	NA	0	0	2	0	0	0
+2113	Bacteria	Verrucomicrobiota	Kiritimatiellae	WCHB1-41	NA	NA	0	0	0	2	0	0
+2114	Bacteria	Bdellovibrionota	Oligoflexia	Oligoflexales	Oligoflexaceae	NA	0	0	0	2	0	0
+2115	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	0	0	0	2	0	0
+2116	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	0	0	0	2	0	0
+2117	Bacteria	SAR324 clade(Marine group B)	NA	NA	NA	NA	0	0	0	2	0	0
+2118	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	NA	NA	0	0	0	2	0	0
+2119	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	0	0	0	0	2	0
+2120	Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	NA	NA	0	0	0	0	2	0
+2121	Bacteria	Chloroflexi	TK10	NA	NA	NA	0	0	0	0	2	0
+2122	Bacteria	NA	NA	NA	NA	NA	0	0	0	0	2	0
+2123	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	0	0	0	0	2	0
+2124	Bacteria	NA	NA	NA	NA	NA	0	0	0	0	0	2
+2125	Bacteria	Chloroflexi	Chloroflexia	Thermomicrobiales	JG30-KF-CM45	NA	0	0	0	0	0	2
